@@ -20,3 +20,18 @@ Jimmy has been involved with Student Robotics since April 2015. In November 2016
 
 Rich started helping out with Student Robotics during his second year of his degree, in 2009. Since then he has helped to develop various aspects of SRs operation, including the kit of electronics hardware that has historically been loaned to teams for the duration of the competition. He was one of the founding Trustees when the charity was initially formed.
 
+## Postal Address
+
+The postal address of Student Robotics is shown below. All Trustees have access to mail sent to this address through a web platform.
+
+```text
+Student Robotics
+Lytchett House
+13 Freeland Park
+Wareham Road
+Lytchett Matravers
+Poole
+Dorset
+BH16 6FA
+```
+
