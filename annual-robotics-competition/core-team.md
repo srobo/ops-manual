@@ -39,7 +39,7 @@ At the end of the annual competition cycle, around early June, the Core Team is 
    * A record of roles created both within and below the Core Team should be kept, along with who is filling them.
    * Each person in a role should document processes and anything else that they feel relevant relating to their role to help both current and future volunteers This documentation should be licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
-### Core Team's Expectations of the Core Team
+### Core Team's Expectations of the Trustees
 
 1. Agree to uphold [Vision, Mission and Values](../about-the-charity/vision-mission-and-values.md).
 2. Operate within the framework defined in the Charity's constitution and in this operations manual.
