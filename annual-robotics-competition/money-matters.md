@@ -12,7 +12,7 @@ The Core Team must draw up a budget for the Competition Program that they are lo
 4. The Trustees must approve any increase in the total of a previously approved budget.
 5. The Trustees must approve any reallocation of funds between budget lines of greater than £1000. The Core Team is free to reallocate funds between budget lines below this threshold.
 6. The budget maintained by the Core Team, as a minimum, must include the following information for each budget line. It may prove helpful to organise budget lines in a hierarchical fashion \(where only the leaves of the tree are budget lines and the internal nodes are used to group budget lines\).
-   1. Shore name.
+   1. Short name.
    2. Description \(ideally with some information as to how the amount was determined\).
    3. Amount.
 7. It is advised to include a 10-20% overesitmate in each budget line to allow for unforeseen changes in cost.

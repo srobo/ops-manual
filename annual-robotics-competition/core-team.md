@@ -47,7 +47,8 @@ At the end of the annual competition cycle, around early June, the Core Team is 
 4. Manage all legal requirements relating to running the Charity.
 5. Provide long-term direction and planning for the Charity.
 6. Maintain a record of SR volunteers with name, email, telephone and emergency contact details. Entries on this record will be reviewed every 18 months and entries deleted if the individual does not indicate a continuing desire to volunteer. For now only Trustees will have access to this dataset. This dataset may include extra information such as what areas of SR they are interested in volunteering in.
-7. Manage fund-raising to ensure that their is sufficient funds for the current and future activities.
+7. Maintain documentation of processes and useful information for both current and future Trustees. This documentation can be found in the[ wiki of the ops-manual git repo](https://github.com/srobo/ops-manual/wiki).
+8. Manage fund-raising to ensure that their is sufficient funds for the current and future activities.
 
 ### Role of the Chairperson
 

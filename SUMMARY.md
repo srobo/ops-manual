@@ -10,3 +10,8 @@
   * [Money Matters](annual-robotics-competition/money-matters.md)
 * [Miscellaneous](miscellaneous.md)
 
+## Legacy \(pre v3\) Ops-manuals
+
+* [Ops-manual V1](https://github.com/srobo/legacy-ops-manual/releases/download/v1/ops-manual-v1.pdf)
+* [Ops-manual V2](https://github.com/srobo/legacy-ops-manual/releases/download/v2/ops-manual-v2.pdf)
+
