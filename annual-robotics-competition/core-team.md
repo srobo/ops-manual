@@ -1,6 +1,6 @@
 # Core Team
 
-The running of the Student Robotics Competition Program is delegated to the Core Team. The Core Team is a group of people who have collectively agreed to take on the responsibility of defining and delivering the Competition Program for a single competition cycle \(1 year\). They are accountable to the Trustees.
+The running of the Student Robotics Competition Program is delegated to the Core Team. The Core Team is a group of people who have collectively agreed to take on the responsibility of defining and delivering the Competition Program for a single competition cycle \(1 year\). They are accountable to the Trustees. The purpose of the information contained within this page is to clearly define the responsibilities of the Core Team and how they interact with the Trustees.
 
 It is important to understand that the Core Team are not expected to, and should not carry out, all of the tasks required to deliver a competition. The Core Team is a select group that has agreed to a higher level of commitment to deliver the Competition Program than general Student Robotics volunteers and they should work with the volunteering community at large to deliver on their commitment.
 
