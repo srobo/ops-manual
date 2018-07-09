@@ -42,7 +42,7 @@ At the end of the annual competition cycle, around early June, the Core Team is 
 ### Core Team's Expectations of the Trustees
 
 1. Agree to uphold [Vision, Mission and Values](../about-the-charity/vision-mission-and-values.md).
-2. Operate within the framework defined in the Charity's constitution and in this operations manual.
+2. Operate within the framework defined in the [Charity's constitution](../resources/constitution.pdf) and in this operations manual.
 3. Abide by and uphold the [Code of Conduct](../about-the-charity/code-of-conduct.md).
 4. Manage all legal requirements relating to running the Charity.
 5. Provide long-term direction and planning for the Charity.
