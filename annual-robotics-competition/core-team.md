@@ -42,7 +42,7 @@ At the end of the annual competition cycle, around early June, the Core Team is 
 ### Core Team's Expectations of the Trustees
 
 1. Agree to uphold [Vision, Mission and Values](../about-the-charity/vision-mission-and-values.md).
-2. Operate within the framework defined in the [Charity's constitution](../resources/constitution.pdf) and in this operations manual.
+2. Operate within the framework defined in the [Charity's constitution](https://github.com/srobo/ops-manual/tree/d76377192d4c94c4bd4298f0f3954f5d342af24b/resources/constitution.pdf) and in this operations manual.
 3. Abide by and uphold the [Code of Conduct](../about-the-charity/code-of-conduct.md).
 4. Manage all legal requirements relating to running the Charity.
 5. Provide long-term direction and planning for the Charity.
@@ -63,6 +63,4 @@ At the end of the annual competition cycle, around early June, the Core Team is 
 3. Keep financial records \(in a form to be agreed with the trustees\).
 4. Submit final accounts \(at the end of the competition cycle\).
 5. Understand and follow the requirements defined in the [Money Matters](money-matters.md) section.
-
-
 
