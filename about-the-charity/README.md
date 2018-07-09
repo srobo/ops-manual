@@ -6,15 +6,15 @@ Student Robotics is a charity, registered on 18th August 2015 in England and Wal
 
 ### David Massey
 
-David is a full time teacher at Hills Road Sixth Form College, teaching physics and electronics A-level. He has been involved in sixth form robotics competitions since 2001 and has taken part in Student Robotics since 2012.
+David is a full time teacher at Hills Road Sixth Form College, teaching physics and electronics A-level. He has been involved in sixth form robotics competitions since 2001 and has taken part in Student Robotics since 2012. He became a Trustee in January 2018.
 
 ### Diane Dowling
 
-Diane...
+Diane is Head of Computer Science at Collyer’s Sixth Form College in Horsham, West Sussex and has been involved in Student Robotics as a team Leader since 2013. Diane became a Trustee in January 2018.
 
 ### Jimmy Thompson
 
-Jimmy has been involved with Student Robotics since April 2015. In November 2016 he was elected as a Trustee. ...
+Jimmy is a software developer by trade, based in London. First volunteering for Student Robotics in 2015, in 2016 he was invited to be a Trustee. His main interests are in building a community of volunteers, software engineering and organisation design.
 
 ### Rich Barlow
 
