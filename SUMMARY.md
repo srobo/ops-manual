@@ -4,11 +4,11 @@
 * [About the Charity](about-the-charity/README.md)
   * [Vision, Mission and Values](about-the-charity/vision-mission-and-values.md)
   * [Code of Conduct](about-the-charity/code-of-conduct.md)
-  * [Child Protection](about-the-charity/child-protection.md)
+  * [Safeguarding](about-the-charity/safeguarding.md)
 * [Annual Robotics Competition](annual-robotics-competition/README.md)
   * [Core Team](annual-robotics-competition/core-team.md)
   * [Money Matters](annual-robotics-competition/money-matters.md)
-* [Miscellaneous](miscellaneous.md)
+* [Miscellaneous](misc.md)
 
 ## Legacy \(pre v3\) Ops-manuals
 
