@@ -9,7 +9,7 @@
   * [Core Team](annual-robotics-competition/core-team.md)
   * [Money Matters](annual-robotics-competition/money-matters.md)
   * [Volunteers](annual-robotics-competition/volunteers.md)
-* [Miscellaneous](misc.md)
+* [Miscellaneous](miscellaneous.md)
 
 ## Legacy \(pre v3\) Ops-manuals
 

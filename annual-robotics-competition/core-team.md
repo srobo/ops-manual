@@ -42,11 +42,11 @@ At the end of the annual competition cycle, around early June, the Core Team is 
 ### Core Team's Expectations of the Trustees
 
 1. Agree to uphold [Vision, Mission and Values](../about-the-charity/vision-mission-and-values.md).
-2. Operate within the framework defined in the [Charity's constitution](../resources/constitution.pdf) and in this operations manual.
+2. Operate within the framework defined in the [Charity's constitution](https://github.com/srobo/ops-manual/tree/2273a50c07807811ee444f80a7fb14b13f785101/resources/constitution.pdf) and in this operations manual.
 3. Abide by and uphold the [Code of Conduct](../about-the-charity/code-of-conduct.md).
 4. Manage all legal requirements relating to running the Charity.
 5. Provide long-term direction and planning for the Charity.
-6. Maintain a record of SR volunteers with name, email, telephone and emergency contact details. Entries on this record will be reviewed every 18 months and entries deleted if the individual does not indicate a continuing desire to volunteer. For now only Trustees will have access to this dataset. This dataset may include extra information such as what areas of SR they are interested in volunteering in.
+6. Maintain a record of SR [volunteers](volunteers.md) with name, email, telephone, address and emergency contact details. Entries on this record will be reviewed every 18 months and entries deleted if the individual does not indicate a continuing desire to volunteer. For now only Trustees will have direct access to this dataset and the Core Team will have to work with the Trustees to use it. This dataset may include extra information such as what areas of SR they are interested in volunteering in.
 7. Maintain documentation of processes and useful information for both current and future Trustees. This documentation can be found in the[ wiki of the ops-manual git repo](https://github.com/srobo/ops-manual/wiki).
 8. Manage fund-raising to ensure that their is sufficient funds for the current and future activities.
 
@@ -63,6 +63,4 @@ At the end of the annual competition cycle, around early June, the Core Team is 
 3. Keep financial records \(in a form to be agreed with the trustees\).
 4. Submit final accounts \(at the end of the competition cycle\).
 5. Understand and follow the requirements defined in the [Money Matters](money-matters.md) section.
-
-
 

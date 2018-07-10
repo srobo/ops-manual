@@ -10,7 +10,7 @@ The Core Team must draw up a budget for the Competition Program that they are lo
 2. The budget must not be publicly available. This is to avoid suppliers being able to know exactly how much the Charity has to spend on a given service/product.
 3. The Trustees must approve a budget before any spending is made towards a Competition Program.
 4. The Trustees must approve any increase in the total of a previously approved budget.
-5. The Trustees must approve any reallocation of funds between budget lines of greater than £1000. The Core Team is free to reallocate funds between budget lines below this threshold.
+5. The Trustees must approve any reallocation of funds between budget lines where the amount being reallocated is greater than £1000. The Core Team is free to reallocate funds between budget lines below this threshold.
 6. The budget maintained by the Core Team, as a minimum, must include the following information for each budget line. It may prove helpful to organise budget lines in a hierarchical fashion \(where only the leaves of the tree are budget lines and the internal nodes are used to group budget lines\).
    1. Short name.
    2. Description \(ideally with some information as to how the amount was determined\).
