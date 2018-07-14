@@ -6,7 +6,7 @@
 
 A primary goal of Student Robotics is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion \(or lack thereof\).
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behaviour.
+This code of conduct outlines our expectations for all those who participate in our community, including, but not limited to, volunteers, competitors and team leaders. It further outlines the consequences for unacceptable behaviour.
 
 We invite all those who participate in Student Robotics to help us create safe and positive experiences for everyone.
 
@@ -51,11 +51,17 @@ Unacceptable behaviour from any community member, including sponsors and those w
 
 Anyone asked to stop unacceptable behaviour is expected to comply immediately.
 
-If a community member engages in unacceptable behaviour, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning \(and without refund in the case of a paid event\).
+If a community member engages in unacceptable behaviour, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning.
 
 ### 6. Reporting Guidelines
 
-If you are subject to or witness unacceptable behaviour, or have any other concerns, please notify a community organizer as soon as possible here: [trustees@studentrobotics.org](mailto:trustees@studentrobotics.org).
+If you are subject to or witness unacceptable behaviour, or have any other concerns, please notify a community organizer as soon as possible via [trustees@studentrobotics.org](mailto:trustees@studentrobotics.org). All reports will be handled with discretion. In your report please include:
+
+* Your contact information.
+* Names \(real, nicknames, or pseudonyms\) of any individuals involved. If there are additional witnesses, please include them as well. Your account of what occurred, and if you believe the incident is ongoing. If there is a publicly available record \(e.g. a mailing list archive, public IRC logger or GitHub discussion\), please include a link.
+* Any additional information that may be helpful.
+
+After filing a report, a representative will contact you personally, review the incident, follow up with any additional questions, and make a decision as to how to respond. If the person who is harassing you is part of the response team, they will recuse themselves from handling your incident. If the complaint originates from a member of the response team, it will be handled by a different member of the response team. We will respect confidentiality requests for the purpose of protecting victims of abuse.
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behaviour feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 

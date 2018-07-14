@@ -10,5 +10,12 @@ The source of this document can be found here: [https://github.com/srobo/ops-man
 
 Releases of the operations manual are denoted with both a tag and branch of the form 'v\#', where \# is a number. The latest release is the one with the largest number and will be set as the GitBook 'primary' version. The requirement for a branch as well as a tag with the same name is an unfortunate requirement of how the GitBook platform operates; if a tag and branch of the same name ever differ in terms of the commit that they refer to, the tag takes precedence \(if you happen to notice an anomaly of this form, please inform the [trustees](mailto:trustees@studentrobotics.org)\).
 
-To make a release of this document a new version should be created via the GitBook editing interface. This version must have a human-readable name of the form 'Version \#' and a 'path' of 'v\#' \(the 'path' setting in the GitBook interface is what becomes the branch name in the git repository\). This newly created version must be set as the primary version, such that it is the version presented to a reader when visiting [https://srobo.gitbook.io/ops-manual/](https://srobo.gitbook.io/ops-manual/). Finally, a tag must be created with the same name as the branch just created. This tag must point to the same commit as the current head of the branch. The tag can be created either using the normal git CLI tools or the GitHub web interface.
+To make a release of this document the following steps must be taken:
+
+1. Ensure that the Trustees have approved the release of the new version and it has been recorded in the Trustees' decisions.
+2. Update the [Change Log](change-log.md) with the modifications made since the previous release \(the change log can also be updated as the changes are being made\).
+3. Set the version number and date for the new version in the Change Log
+4. Create a new version via the GitBook editing interface. This version must have a human-readable name of the form 'Version \#' and a 'path' of 'v\#' \(the 'path' setting in the GitBook interface is what becomes the branch name in the git repository\).
+5. Set the newly created version as the primary version, such that it is the version presented to a reader when visiting [https://srobo.gitbook.io/ops-manual/](https://srobo.gitbook.io/ops-manual/).
+6. Create a tag with the same name as the branch just created. This tag must point to the same commit as the current head of the branch. The tag can be created either using the normal git CLI tools or the GitHub web interface.
 

@@ -7,6 +7,6 @@ The register of volunteers is maintained by the Trustees and reviewed every 18 m
 * Name
 * Email Address
 * Phone Number
-* Postal Address
+* Geographical Location \(i.e. City/Town\)
 * Emergency Contact Details \(name, email and phone number of emergency contact\)
 

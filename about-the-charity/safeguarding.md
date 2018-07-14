@@ -6,7 +6,7 @@ Student Robotics takes child safeguarding very seriously. It is important that y
 
 All young people that a Student Robotics volunteer is working with must be supervised by a responsible adult; this will either be a parent or a teacher who will have overall responsibility for that young person.
 
-Volunteers must never meet with young people outside of the supervised environment or communicate over a channel other than that officially set up for group communications.
+Volunteers must never meet with young people who are participating in Student Robotics activities outside of the supervised environment or communicate over a channel other than that officially set up for group communications.
 
-Student Robotics encourages anyone who is involved in working with young people who are participating in SR activities to report any safeguarding concerns to the Trustees \([trustees@studentrobotics.org](mailto:trustees@studentrobotics.org)\).
+Student Robotics encourages anyone who is involved in working with young people who are participating in Student Robotics activities to report any safeguarding concerns to the Trustees via [trustees@studentrobotics.org](mailto:trustees@studentrobotics.org).
 
