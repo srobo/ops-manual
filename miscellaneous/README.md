@@ -12,9 +12,9 @@ Releases of the operations manual are denoted with both a tag and branch of the 
 
 To make a release of this document the following steps must be taken:
 
-1. Ensure that the Trustees have approved the release of the new version and it has been recorded in the Trustees' decisions.
-2. Update the [Change Log](change-log.md) with the modifications made since the previous release \(the change log can also be updated as the changes are being made\).
-3. Set the version number and date for the new version in the Change Log
+1. Ensure that the [Change Log](change-log.md) is up to date with all modifications made since the previous release.
+2. Ensure that the Trustees have approved the release of the new version and it has been recorded in the Trustees' decisions.
+3. Set the version number and date for the new version in the Change Log.
 4. Create a new version via the GitBook editing interface. This version must have a human-readable name of the form 'Version \#' and a 'path' of 'v\#' \(the 'path' setting in the GitBook interface is what becomes the branch name in the git repository\).
 5. Set the newly created version as the primary version, such that it is the version presented to a reader when visiting [https://srobo.gitbook.io/ops-manual/](https://srobo.gitbook.io/ops-manual/).
 6. Create a tag with the same name as the branch just created. This tag must point to the same commit as the current head of the branch. The tag can be created either using the normal git CLI tools or the GitHub web interface.
