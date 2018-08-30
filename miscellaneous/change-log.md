@@ -4,7 +4,7 @@
 Each release of the Operations Manual has an entry on this page. Within this entry changes are broken down into 'Added', 'Changed', 'Removed' and 'Minor Fix'. The first three categories cover modifications that affect the function of the document, whereas the last one includes modifications that do not, for example corrections to typos and formatting. Each entry also includes the date on which it took effect.
 {% endhint %}
 
-## Version WIP \(work-in-progress\)
+## Version 4 \(2018-08-30\)
 
 ### Added
 
