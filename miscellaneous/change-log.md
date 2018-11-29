@@ -4,6 +4,16 @@
 Each release of the Operations Manual has an entry on this page. Within this entry changes are broken down into 'Added', 'Changed', 'Removed' and 'Minor Fix'. The first three categories cover modifications that affect the function of the document, whereas the last one includes modifications that do not, for example corrections to typos and formatting. Each entry also includes the date on which it took effect.
 {% endhint %}
 
+## Version 5 \(2018-11-29\)
+
+### **Added** 
+
+* Paragraph referencing code of conduct for volunteers
+
+### **Removed**
+
+* Paragraph explicitly restricting volunteers meeting or contact young people 
+
 ## Version 4 \(2018-08-30\)
 
 ### Added
