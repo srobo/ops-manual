@@ -10,6 +10,7 @@
   * [Money Matters](annual-robotics-competition/money-matters.md)
   * [Volunteers](annual-robotics-competition/volunteers.md)
 * [Miscellaneous](miscellaneous/README.md)
+  * [Release Versioning](miscellaneous/release-versioning.md)
   * [Change Log](miscellaneous/change-log.md)
 
 ## Legacy \(pre v3\) Ops-manuals
