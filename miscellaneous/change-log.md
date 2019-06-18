@@ -15,6 +15,10 @@ Each release of the Operations Manual has an entry on this page. Within this ent
 * [Release Versioning page](release-versioning.md) that specifies that the Operations Manual follows Semantic Versioning v.2.0.0 from now on
 * Note to [Change Log page](change-log.md) that clarifies its adherence to Keep a Changelog v1.0.0
 
+### Changed
+
+* Latest hosted version is now available at [https://opsmanual.studentrobotics.org/](https://opsmanual.studentrobotics.org/)
+
 ## Version 5 \(2018-11-29\)
 
 ### **Added** 
