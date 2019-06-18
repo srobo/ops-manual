@@ -19,6 +19,7 @@ Each release of the Operations Manual has an entry on this page. Within this ent
 
 * Latest hosted version is now available at [https://opsmanual.studentrobotics.org/](https://opsmanual.studentrobotics.org/)
 * Use British English spelling 'programme' for the Competition Programme
+* Rename 'Core Team' to Competition Programme Committee
 
 ## Version 5 \(2018-11-29\)
 

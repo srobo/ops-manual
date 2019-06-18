@@ -6,7 +6,7 @@
   * [Code of Conduct](about-the-charity/code-of-conduct.md)
   * [Safeguarding](about-the-charity/safeguarding.md)
 * [Annual Robotics Competition](annual-robotics-competition/README.md)
-  * [Core Team](annual-robotics-competition/core-team.md)
+  * [Competition Programme Team](annual-robotics-competition/core-team.md)
   * [Money Matters](annual-robotics-competition/money-matters.md)
   * [Volunteers](annual-robotics-competition/volunteers.md)
 * [Miscellaneous](miscellaneous/README.md)
