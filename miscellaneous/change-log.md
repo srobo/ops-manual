@@ -18,6 +18,7 @@ Each release of the Operations Manual has an entry on this page. Within this ent
 ### Changed
 
 * Latest hosted version is now available at [https://opsmanual.studentrobotics.org/](https://opsmanual.studentrobotics.org/)
+* Use British English spelling 'programme' for the Competition Programme
 
 ## Version 5 \(2018-11-29\)
 
