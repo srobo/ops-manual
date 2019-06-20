@@ -40,28 +40,28 @@ Each release of the Operations Manual has an entry on this page. Within this ent
 * Clarification to [Safeguarding](../about-the-charity/safeguarding.md) that it is only young people who are participating in Student Robotics activities that volunteers must not meet outside of the supervised environment.
 * Examples of who 'those who participate in our community' are in [Purpose](../about-the-charity/code-of-conduct.md#1-purpose) section of Code of Conduct.
 * Instructions to [Reporting Guidelines](../about-the-charity/code-of-conduct.md#6-reporting-guidelines) in Code of Conduct detailing what information to include in a report, how the report is handled and how corner cases, such as the person being accused being one of the people who normally deals with reports, are dealt with.
-* Clarification to [Core Team's Expectations of the Trustees](../annual-robotics-competition/core-team.md#core-teams-expectations-of-the-trustees) number 6 that only Trustees have direct access to volunteer dataset and that the Core Team will have to work with the Trustees to make use of it.
+* Clarification to [Core Team's Expectations of the Trustees](../annual-robotics-competition/competition-programme-team.md#core-teams-expectations-of-the-trustees) number 6 that only Trustees have direct access to volunteer dataset and that the Core Team will have to work with the Trustees to make use of it.
 * Clarification to [Budgeting Requirements](../annual-robotics-competition/money-matters.md#budgeting-requirements) number 5 to remove ambiguity around what the '£1000' is referring to.
 
 ### Changed
 
 * Only store geographical region, instead of full postal address, in [volunteer register](../annual-robotics-competition/volunteers.md).
-* Soften 'expected' to 'will ideally' in Core Team [Defining Features](../annual-robotics-competition/core-team.md#defining-features) section.
-* Make Core Team [Defining Feature](../annual-robotics-competition/core-team.md#defining-features) number 2 more all-encompassing.
+* Soften 'expected' to 'will ideally' in Core Team [Defining Features](../annual-robotics-competition/competition-programme-team.md#defining-features) section.
+* Make Core Team [Defining Feature](../annual-robotics-competition/competition-programme-team.md#defining-features) number 2 more all-encompassing.
 * Shift dates of Core Team convening and disbanding one month earlier in the year \(now convene in June and disband in May\). This is to better align with the school year.
-* Expect Core Team to run a Competition Program, rather than an explicit annual robotics competition, in [Trustees' Expectations of the Core Team](../annual-robotics-competition/core-team.md#trustees-expectations-of-the-core-team) number 4.
+* Expect Core Team to run a Competition Program, rather than an explicit annual robotics competition, in [Trustees' Expectations of the Core Team](../annual-robotics-competition/competition-programme-team.md#trustees-expectations-of-the-core-team) number 4.
 
 ### Removed
 
-* Pre-selection of 10 people to invite to the meeting to form the Core Team in the [Core Team Formation](../annual-robotics-competition/core-team.md#formation) section.
-* Sentence explaining why more than eight people are invited to the meeting to form the Core Team in the [Core Team Formation](../annual-robotics-competition/core-team.md#formation) section.
-* Explicit list of volunteer details recorded from [Core Team's Expectations of the Trustees](../annual-robotics-competition/core-team.md#core-teams-expectations-of-the-trustees) number 6. \(This information is already defined on the [Volunteers](../annual-robotics-competition/volunteers.md) page\).
+* Pre-selection of 10 people to invite to the meeting to form the Core Team in the [Core Team Formation](../annual-robotics-competition/competition-programme-team.md#formation) section.
+* Sentence explaining why more than eight people are invited to the meeting to form the Core Team in the [Core Team Formation](../annual-robotics-competition/competition-programme-team.md#formation) section.
+* Explicit list of volunteer details recorded from [Core Team's Expectations of the Trustees](../annual-robotics-competition/competition-programme-team.md#core-teams-expectations-of-the-trustees) number 6. \(This information is already defined on the [Volunteers](../annual-robotics-competition/volunteers.md) page\).
 * Reference to not giving refunds to paid events from [Consequences of Unacceptable Behaviour](../about-the-charity/code-of-conduct.md#5-consequences-of-unacceptable-behaviour) section of Code of Conduct. We don't run paid events, so it isn't relevant.
 
 ### Minor Fix
 
 * Make release procedure in [Making Changes to this Document](./#making-changes-to-this-document) section into a numbered list.
-* Make points under [Trustees' Expectations of the Core Team](../annual-robotics-competition/core-team.md#trustees-expectations-of-the-core-team) number 8 \(be self-organising\) into a numbered list.
+* Make points under [Trustees' Expectations of the Core Team](../annual-robotics-competition/competition-programme-team.md#trustees-expectations-of-the-core-team) number 8 \(be self-organising\) into a numbered list.
 * Expand 'SR' into 'Student Robotics' in [Safeguarding](../about-the-charity/safeguarding.md).
 * Reference Trustees' email address in a more readable manner in [Safeguarding](../about-the-charity/safeguarding.md) and [Code of Conduct](../about-the-charity/code-of-conduct.md).
 
