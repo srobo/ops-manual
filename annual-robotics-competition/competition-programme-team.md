@@ -16,7 +16,7 @@ Volunteers ask the Committee to join the Team. The Committee should not unreason
 
 The Team is lead by a Committee. The Committee is a group of 3-5 people who are ultimately responsible for ensuring that the Competition Programme is delivered to the standard expected by the Trustees. The Committee is accountable to the Trustees.
 
-It is of vital importance to understand that the Committee serves a management and organisation role within the Team. They are strongly advised to not directly carry out the tasks required to deliver a competition; the Trustees will help to ensure that this is the case throughout the year. The Committee must focus on management of time, resources and volunteers within the Team. They should provide support and guidance to Team members to allow them to be as effective as possible in delivering the competition.
+It is of vital importance to understand that the Committee serves a management and organisation role within the Team. They are strongly advised to not directly carry out the tasks required to deliver a competition; the Trustees will help to ensure that this is the case throughout the year. The Committee must focus on management of time, resources and volunteers within the Team. They should provide support and guidance to Team members to allow them to be as effective as possible in delivering the competition. The Trustees will provide support and guidance/training to the Committee to allow them to be as effective as possible in managing the Team.
 
 ## Formation and Dissolution
 
@@ -35,14 +35,11 @@ Approximately three weeks before the Committee is to be formed all registered St
 
 The Committee is formed at the start of the annual competition cycle, around early July. This happens during a physical meeting \(travel expenses to/from the meeting will be reimbursed\). At the meeting the Trustees will discuss their expectations of the Committee, what the Committee can expect from the Trustees and will endeavour to ensure that the responsibilities they would be taking on are clear. After discussing these points, and answering any questions, the Trustees will ask for a show of hands of people who would like to join the Committee. There is absolutely no pressure to join the Committee if one feels that they cannot commit themselves. If more than 5 people indicate a desire to join the Committee at this stage the Trustees will select the 5 people that they feel are most able to take on the responsibilities of the Committee based on the earlier discussion.
 
-Once the Committee is formed the Trustees will outline their expectations for the Competition Programme. Each year the Trustees will provide guidance to the new Committee as to the direction in which they would like to the Competition Programme to be taken and where they would like the Committee to focus their efforts. For example it may be the case that the Trustees would like to expand the number of Teams, or they may want the Committee to focus on increasing volunteer engagement during this competition cycle.
+Once the Committee is formed the remainder of the meeting will be spent with the Trustees outlining their expectations for the Competition Programme. Each year the Trustees will provide guidance to the new Committee as to the direction in which they would like to the Competition Programme to be taken and where they would like the Committee to focus their efforts. For example it may be the case that the Trustees would like to expand the number of Teams, or they may want the Committee to focus on increasing volunteer engagement during this competition cycle.
 
-### Initial Committee Tasks
+### The First Few Weeks
 
-After the conclusion of the formation meeting the newly formed Committee has two initial tasks to complete. Both of these should be completed within 2 weeks of the formation meeting.
-
-1. **Recruitment of a Team.** The Trustees will provide the Committee with the details of volunteers who registered an interest in being on the Team during the [Registration of Interest](competition-programme-team.md#registration-of-interest) phase. The Committee should contact these volunteers to see if they are still interested and to make sure that they understand the purpose of the Competition Programme Team that they are looking to join. If they do still want to join the Team, the Committee must make it clear to them that they have joined and maintain a record of Team members. The Committee may also contact all volunteers throughout the 11-month period to recruit more members into the Team.
-2. **High level planning session.** Hold a full-day session \(in person\) to prepare a high level plan for the coming competition cycle. To give a sense of scale, it is expected that this high level plan will take the form of no more than 2 A4 pages and should include time and resource estimates \(both volunteers and assets\). Also during this session the Committee must divide up the [key responsibilities](competition-programme-team.md#key-responsibilities) between them \(each responsibility must be taken by a single Committee member, each Committee member may take on multiple responsibilities\). The Committee must report their division of responsibilties to the Trustees.
+After the formation meeting has concluded the newly formed Committee must fulfil their [collective responsibilities](competition-programme-team.md#collective-responsibilities). The Trustees will also give the Committee members the ability to attend a professional third-party management training/coaching course to help them improve their management and delegation skills. Attending this course is highly recommended as it will give the key skills required to work as an effective Committee. The Trustees will also give the Committee the option of attending a professional third-party team building event/exercise if they so desire.
 
 ### Dissolution
 
@@ -62,56 +59,73 @@ During the dissolution meeting the Committee will be asked, among other things, 
 8. Did the Trustees do enough to support the Committee?
 9. How do members of the Committee see Student Robotics developing and expanding?
 
-## Expectations/Responsibilities and Roles
+### Unforeseen Circumstances
 
-### Key Responsibilities
+If a Committee member wishes to resign from the Committee part-way through the 11-month period they should email the Trustees \(trustees@studentrobotics.org\). The Trustees will work with the individual to see if there is any more help and support that they can provide to allow them to continue in their role. If there is no option for the individual to continue the Trustees will work to find a replacement volunteer to become a Committee member. Volunteers that indicated a desire to be on the Committee at the start of the period, but were not able to be members due to the size restriction will be considered first. The Trustees will also work with the remaining Committee to see if they have any recommendations.
 
-### Trustees' Expectations of the Committee
+## Expectations and Responsibilities
+
+### Collective Responsibilities
+
+After the conclusion of the formation meeting the newly formed Committee takes on the following two collective responsibilities. Both of these should be fulfilled within 2 weeks of the formation meeting.
+
+1. **Recruitment of a Team.** The Trustees will provide the Committee with the details of volunteers who registered an interest in being on the Team during the [Registration of Interest](competition-programme-team.md#registration-of-interest) phase. The Committee should contact these volunteers to see if they are still interested and to make sure that they understand the purpose of the Competition Programme Team that they are looking to join. If they do still want to join the Team, the Committee must make it clear to them that they have joined and maintain a record of Team members. The Committee may also contact all volunteers throughout the 11-month period to recruit more members into the Team.
+2. **High level planning session.** Hold a full-day session \(in person\) to prepare a high level plan for the coming competition cycle. To give a sense of scale, it is expected that this high level plan will take the form of no more than two A4 pages and should include time and resource estimates \(both volunteers and assets\). Also during this session the Committee must divide up the [individual responsibilities](competition-programme-team.md#individual-responsibilities) between them \(each responsibility must be taken by a single Committee member, each Committee member may take on multiple responsibilities\). The Committee member responsible for reporting to the Trustees must report their division of responsibilities to the Trustees via email.
+
+Throughout the 11-month period all Committee members are expected to do the following:
 
 1. Agree to uphold [Vision, Mission and Values](../about-the-charity/vision-mission-and-values.md).
 2. Operate within the framework defined in this operations manual.
 3. Abide by the [Code of Conduct](../about-the-charity/code-of-conduct.md).
 4. Commit to running a Competition Programme.
-5. Elect a Chairperson and Treasurer who must fulfil the responsibilities of their respective roles.
-6. Stick to the most recently approved budget. All members are responsible, not just treasurer.
-7. Manage assets owned by the Charity for the purpose of fulfilling the annual robotics competition.
-8. Be self-organising:
-   1. The Committee is free to recruit other members into the Committee, however it is strongly recommended that the Committee is maintained between 5 and 8 members \(inclusive\). A team smaller or larger than this will not be able to operate effectively.
-   2. The operations manual only requires the roles of Chairperson and Treasurer within the Committee. The Committee is free to define other roles within itself as it sees fit.
-   3. The Committee can define any structure below it \(i.e. not part of the Committee itself\) and delegate aspects of the Competition Programme as it sees fit.
-   4. A record of roles created both within and below the Committee should be kept, along with who is filling them.
-   5. Each person in a role should document processes and anything else that they feel relevant relating to their role to help both current and future volunteers This documentation should be licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+5. Maintain documentation of processes and anything else that they feel relevant relating to their responsibilities to help both current and future volunteers This documentation should be licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+6. Stick to the most recently approved Competition Programme budget. Note that _all_ Committee members are responsible for sticking to the budget.
 
-### Committee's Expectations of the Trustees
+### Individual Responsibilities/Roles
+
+As well as the collective responsibilities defined above, the following responsibilities must be divided up among the Committee members. Each responsibility listed below must be taken by a single member and it is expected \(in fact, necessary\) for some members to take on more than one of the responsibilities. For example Member A may be responsible for X and Y and Member B may be responsible for Z; no other member may be responsible for Y.
+
+1. **Reporting to Trustees.** This committee member is responsible for ensuring that the Committee provides regular updates to the Trustees to keep them in-the-loop with the progress of delivering the Competition Programme. This is accomplished by arranging for online \(Google Hangouts/Meet\) calls every two-three weeks. They must also ensure that minutes are taken at Committee meetings and that these minutes are made publicly available.
+2. **Budget and expenditure management.** This committee member is responsible for drawing up a budget for the Competition Programme and ensuring that expenditure within the Team is managed according to this budget. They must submit a budget to the Trustees within one month of the formation of the committee. This budget does not need to be extremely detailed; 8-10 budget lines is expected. The budget should be based on expenditure in previous years and expected changes to the Competition Programme this year. Submitting an incomplete budget \(where noted\) is better than submitting no budget. They must also do the following:
+   1. Keep financial records \(in a form to be agreed with the trustees\).
+   2. Submit final accounts \(at the end of the competition cycle\).
+   3. Understand and follow the requirements defined in the [Money Matters](money-matters.md) section \(this defines how budgeting works in more detail\).
+3. **Event management.** This committee member is responsible for overall management and delivery of the various events throughout the Competition Programme \(Kickstart, Tech Days, Competition\). This is a large responsibility and the committee member taking this on should not take on any of the other individual responsibilities.
+4. **Team management.** This committee member is responsible for the management of teams taking part in the competition programme. They are expected to ensure that a sufficient quantity of teams are signed-up to take part in the competition and that the teams receive an adequate level of communication to allow them to get the most out of being a team competing in the Competition Programme. In particular they should ensure that sufficient notice is given to teams prior to events to give them time to make the necessary preparations \(schools usually require notice many months in advance of an event\).
+5. **Volunteer management.** This committee member is responsible for the management of two groups of volunteers: members of the Competition Programme Team and volunteers who are helping out at an event \(who may or may not be a member of the Team\).
+
+   In the case of Team members they should ensure that all Team members are given an opportunity to contribute towards delivering the Competition Programme and that they are guided to areas within the Team that require more effort. They should handle requests from volunteers looking to join the Team and also Team members looking to leave the team.
+
+   In the case of volunteers helping out at events they should ensure that all SR volunteers are given visibility of event volunteering opportunities and that they receive adequate documentation, training and support for the roles that they fill at the events.
+
+6. **Safeguarding and welfare.** This committee member is responsible for ensuring that the Student Robotics [safeguarding policy](../about-the-charity/safeguarding.md) is abided by throughout the 11-month period and at events. They are also responsible for ensuring that all volunteers working on the Competition Programme \(either in the Team or as event volunteers\) are not overworked and that the level of responsibility being taken on by any individual is kept at an acceptable level.
+7. **Gathering metrics.** This volunteer is responsible for ensuring that metrics are collected throughout the 11-month period. They should work with the Trustees early on to define a list of metrics to be gathered \(e.g. number of teams, average number of competitors per team, average competitor to mentor face time per week, etc\). It is of critical importance that SR gathers metrics to be able to optimise and improve the Competition Programme and to report to new and existing sponsors to prove the efficacy of the Programme.
+
+The Committee is free to define other roles within itself as it sees fit. It is also free \(and strongly encouraged\) to form sub-teams within the Team to handle certain aspects of the Competition Programme. For example the Committee member responsible for Team Management should form a 'Team Management Sub-Team' within the Competition Programme Team. This sub-team consists of volunteers who are primarily focused on the activities of managing teams.
+
+### Trustees' responsibilities to the Committee
+
+In return for the Committee taking on the responsibilities specified above, the Trustees take on the following responsibilities:
 
 1. Agree to uphold [Vision, Mission and Values](../about-the-charity/vision-mission-and-values.md).
 2. Operate within the framework defined in the [Charity's constitution](https://github.com/srobo/ops-manual/tree/2273a50c07807811ee444f80a7fb14b13f785101/resources/constitution.pdf) and in this operations manual.
 3. Abide by and uphold the [Code of Conduct](../about-the-charity/code-of-conduct.md).
-4. Manage all legal requirements relating to running the Charity.
-5. Provide long-term direction and planning for the Charity.
-6. Maintain a record of SR volunteers containting the details listed on the [Volunteers](volunteers.md) page. Entries on this record will be reviewed every 18 months and entries deleted if the individual does not indicate a continuing desire to volunteer. For now only Trustees will have direct access to this dataset and the Committee will have to work with the Trustees to use it.
-7. Maintain documentation of processes and useful information for both current and future Trustees. This documentation can be found in the[ wiki of the ops-manual git repo](https://github.com/srobo/ops-manual/wiki).
-8. Manage fund-raising to ensure that their is sufficient funds for the current and future activities.
-
-### Role of the Chairperson
-
-1. Convene and Chair meetings of the Committee.
-2. Ensure that minutes of Committee are taken and made available to the trustees and other members of the Committee.
-3. Provide monthly progress reports to Trustees.
-
-### Role of the Committee Treasurer
-
-1. Prepare a [budget](money-matters.md#budgeting-requirements) for the competition.
-2. Seek approval for the budget \(from the trustees\).
-3. Keep financial records \(in a form to be agreed with the trustees\).
-4. Submit final accounts \(at the end of the competition cycle\).
-5. Understand and follow the requirements defined in the [Money Matters](money-matters.md) section.
+4. Provide the option of professional third-party training/coaching in management and delegation skills.
+5. Pay for Committee members' travel costs to and from the venue for their initial high level planning session.
+6. Provide the option of a professional third-party team-building exercise soon after the formation of the Committee.
+7. Manage all legal requirements relating to running the Charity.
+8. Provide long-term direction and planning for the Charity.
+9. Maintain a record of SR volunteers containing the details listed on the [Volunteers](volunteers.md) page. Entries on this record will be reviewed every 18 months and entries deleted if the individual does not indicate a continuing desire to volunteer. For now only Trustees will have direct access to this dataset and the Committee will have to work with the Trustees to use it.
+10. Maintain documentation of processes and useful information for both current and future Trustees. This documentation can be found in the[ wiki of the ops-manual git repository](https://github.com/srobo/ops-manual/wiki).
+11. Manage fund-raising to ensure that their is sufficient funds for the current and future activities.
 
 ## FAQs
 
 ### Why can I only be in one team within SR?
 
 Unfortunately SR has a history of relying too much on a small number of individuals. This can easily lead to those individuals feeling overworked and overwhelmed. Limiting membership to a single team within SR at a time is to protect you from the risk of becoming overworked and overwhelmed. One of the key responsibilities of the Committee is to ensure that Team members are happy and feel comfortable with the workload they have within the Team; if a volunteer is part of multiple teams it is very difficult for this oversight to be adequately provided.
+
+You can still contribute to other areas of SR while not a member of the team responsible for that area. However, you must consider that, as you are not part of the other team, you will not be fully aware of where the other team is currently focusing its effort and therefore your contribution may take a long time to be incorporated. Examples of how you might contribute elsewhere are things like: fixing a typo or suggesting improved wording in a document, fixing a bug in some code, minor refactoring of code, general house keeping/tidying of code and documents.
 
 ### Why is there an upper limit on the size of the Committee?
 
