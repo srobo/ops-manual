@@ -1,3 +1,9 @@
+---
+description: >-
+  The Competition Programme Team is responsible for defining and delivering the
+  Student Robotics Competition Programme. Estimated reading time: 16 minutes.
+---
+
 # Competition Programme Team
 
 This page describes the structure, function and purpose of the Competition Programme Team \('the Team'\). The Team is lead and organised by the Competition Programme Committee \('the Committee'\). The purpose of the Team and its Committee is to define and deliver the Competition Programme for a single competition cycle \(1 year\). The Committee are ultimately responsible for ensuring that the Competition Programme is delivered to the standard expected by the Trustees. The Team \(and its Committee\) operates on an 11-month cycle \(see [Formation and Dissolution](competition-programme-team.md#formation) below\).
