@@ -31,7 +31,7 @@ The Team and its Committee operate on a 11-month cycle running from early July t
 1. It provides a much-needed break for members of the Team and Committee. Delivering a competition is a huge undertaking and can require a significant investment of time and effort from volunteers \(although this should be kept under control by the Committee\). The month's break removes all responsibilities and sense of duty to perform tasks from all members of the Team and Committee and is akin to the Formula 1 summer break.
 2. It provides an opportunity for new volunteers to get involved in delivering a competition starting from the same place as the rest of the Team. There is nothing to stop volunteers joining the Team during the 11-month period, but it can be beneficial to be around from the start. Having a gap provides a definite start of a new cycle.
 
-Around early July a new Committee is formed. Once formed, the Committee then assembles the Team that they will work with to deliver the competition over the follwing 11 months.
+Around early July a new Committee is formed. Once formed, the Committee then assembles the Team that they will work with to deliver the competition over the following 11 months.
 
 ### Registration of Interest
 
