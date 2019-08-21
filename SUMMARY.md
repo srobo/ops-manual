@@ -7,6 +7,7 @@
   * [Safeguarding](about-the-charity/safeguarding.md)
 * [Annual Robotics Competition](annual-robotics-competition/README.md)
   * [Competition Programme Team](annual-robotics-competition/competition-programme-team.md)
+  * [Kit Team](annual-robotics-competition/kit-team.md)
   * [Money Matters](annual-robotics-competition/money-matters.md)
   * [Volunteers](annual-robotics-competition/volunteers.md)
 * [Miscellaneous](miscellaneous/README.md)
