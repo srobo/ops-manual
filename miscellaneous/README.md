@@ -2,7 +2,7 @@
 
 ## Licensing
 
-This work \(the operations manual\) is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). The authors of this work are: Rich Barlow.
+This work \(the operations manual\) is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). The authors of this work are: Rich Barlow, Diane Dowling. 
 
 ## Making Changes to this Document
 
