@@ -10,15 +10,12 @@ David is a full time teacher at Hills Road Sixth Form College, teaching physics 
 
 ### Diane Dowling
 
-Diane is Head of Computer Science at Collyer’s Sixth Form College in Horsham, West Sussex and has been involved in Student Robotics as a team Leader since 2013. Diane became a Trustee in January 2018.
+Diane works for the Raspberry Pi Foundation. She was previously Head of Computer Science at a Collyer's Sixth Form College in Horsham and has been involved in Student Robotics as a team Leader since 2013. Diane became a Trustee in January 2018.
 
 ### Jimmy Thompson
 
 Jimmy is a software developer by trade, based in London. First volunteering for Student Robotics in 2015, in 2016 he was invited to be a Trustee. His main interests are in building a community of volunteers, software engineering and organisation design.
 
-### Rich Barlow
-
-Rich started helping out with Student Robotics during his second year of his degree, in 2009. Since then he has helped to develop various aspects of SRs operation, including the kit of electronics hardware that has historically been loaned to teams for the duration of the competition. He was one of the founding Trustees when the charity was initially formed.
 
 ## Postal Address
 
