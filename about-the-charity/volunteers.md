@@ -10,4 +10,4 @@ The register of volunteers is maintained, by the Trustees, on the Google GSuite 
 * Geographical Location \(i.e. City/Town\)
 * Emergency Contact Details \(name, email and phone number of emergency contact\)
 
-Each volunteer is required to abide by the [code of conduct] and to observe [safeguarding procedures]. 
+Each volunteer is required to abide by the [code of conduct] (code-of-conduct.md) and to observe [safeguarding procedures] (safeguarding.md). 
