@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The purpose of the Kit Team is to oversee and manage the development, maintenance and support of the SR Kit (the kit).  The Kit Team is responsible for providing a Kit Service to the Competition team in order to enable the SR Competition Programme.
+The purpose of the Kit Team is to oversee and manage the development, maintenance and support of the SR Kit.  The Kit Team is responsible for providing a Kit Service to the Competition team in order to enable the SR Competition Programme.
 
 The kit is defined as the hardware and software (including software services) that are provided to school teams to enable them to take part in the annual robotics competition.
 
@@ -19,21 +19,19 @@ The Kit Service includes, but is not limited to:
 
 ## Structure and Operation
 
-The Kit Team (the team) is a group of volunteers that work together to provide a Kit Service. The team is lead by a committee that is responsible for fulfilling the aims of the team.
+The Kit Team is a group of volunteers that work together to provide a Kit Service. The team is lead by a committee that is responsible for fulfilling the aims of the team.
 
 The  Kit Team is separate from the Competition Team. However, it is expected that Kit Team volunteers will have previously volunteered with the Competition Team and that volunteers from both teams will be available to help run the annual competition. 
 
-Volunteers apply through the committee to join the team. The committee will ensure the team has an appropriate balance of relevant skills. The committee should not unreasonably restrict membership of the team.
+Volunteers apply through the Kit Team Committee to join the team. The committee will ensure the team has an appropriate balance of relevant skills. The committee should not unreasonably restrict membership of the team.
 
 ## The Kit Team Committee
 
-The Kit Team Committee (the committee) is a group of 3-5 people who develop and clearly communicate a strategic vision, coherent with the values of Student Robotics, for the Kit. The committee ensures that resources are always used in the best interests of the charity and is accountable to the Trustees, The committee delegates responsibilities and resources to the rest of the team.
-
-The Committee delegates responsibilities and resources to the rest of the Kit Team.
+The Kit Team Committee is a group of 3-5 people who develop and clearly communicate a strategic vision, coherent with the values of Student Robotics, for the Kit. The committee ensures that resources are always used in the best interests of the charity and is accountable to the Trustees, The committee delegates responsibilities and resources to the rest of the team.
 
 ### Joining the committee
 
-Members join the committee by application to the Trustees. The committee will operate on a continuous/rolling timeline. Each member has a maximum term of two years, after which they are automatically retired from the committee. Before the conclusion of the two year term the member may apply to the Trustees to extend their term for a further two years, without a gap in membership of the committee. 
+Volunteers join the committee by application to the Trustees. The committee will operate on a continuous/rolling timeline. Each member has a maximum term of two years, after which they are automatically retired from the committee. Before the conclusion of the two year term the member may apply to the Trustees to extend their term for a further two years, without a gap in membership. 
 
 ### Resignation of a committee member
 
@@ -44,7 +42,7 @@ If a committee member wishes to resign they should email the Trustees. The Trust
 The committee is collectively responsible for:
 
 * Communicating a strategic vision for the kit.
-* Ensuring that resources are deployed only for the purposes of delivering the Student Robotics Competition or as directed by the Trustees from time to time.
+* Ensuring that resources are deployed only for the purposes of delivering the Student Robotics Competition Programme or as directed by the Trustees.
 * Maintaining a record of team members, with their abilities and desired workload.
 * The management, tracking and distribution of assets within the team.
 * The management of the workload of members of the team.
@@ -59,8 +57,8 @@ The following responsibilities must be divided up among the committee members. E
 
 * Reporting to Trustees. This committee member is responsible for ensuring that the committee provides regular updates to the Trustees to update them on the work of the team. They must also ensure that minutes are taken at committee meetings and that these minutes are made publicly available.
 * Budget and expenditure management This committee member is responsible for drawing up an annual budget within the overall budget provided by the Trustees. They must submit the budget to the Trustees once it has been agreed. They must also do the following:
-** Keep financial records (in a form to be agreed with the trustees)
-** Understand and follow the requirements defined in the Money Matters section (this defines how budgeting works in more detail).
+  * Keep financial records (in a form to be agreed with the trustees)
+  * Understand and follow the requirements defined in the Money Matters section
 * Communicating with the Competition Team. This committee member is responsible for formal liaison with the Competition Team to make sure that any issues relating to the kit are communicated effectively and that the committee is kept fully aware of pressures and deadlines.
 
 The committee should self-organise to elect these roles within their group, along with any other roles that they deem necessary, e.g. Software Coordinator.
@@ -68,7 +66,7 @@ The committee should self-organise to elect these roles within their group, alon
 
 ## Accountability
 
-The Kit Team is accountable to the Trustees. A report will be delivered by the committee member responsible for reporting to the Trustees every 4 months, to update them on the work of the team and the state of the kit.
+The Kit Team is accountable to the Trustees. A report will be delivered by the committee member responsible for reporting to the Trustees, every 4 months, to update them on the work of the team and the state of the kit.
 
 Minutes of meetings should be made available to the general public although access to any sensitive commercial data, may be restricted to the Trustees.
 
