@@ -17,15 +17,15 @@ The competition programme includes, but is not limited to:
 
 ## Structure and Operation
 
-The Competition Team (the team) is a group of volunteers who work together, and closely with other teams within SR, to define and deliver the competition programme. The team is lead by a committee that is responsible for fulfilling the aims of the team.
+The Competition Team is a group of volunteers who work together, and closely with other teams within SR, to define and deliver the competition programme. The team is lead by a committee that is responsible for fulfilling the aims of the team.
 
 The team (and its committee) operates on an 11-month cycle (see Formation and Dissolution below).
 
-Volunteers apply through the committee to join the team. The committee will ensure the team has an appropriate balance of relevant skills. Volunteers will be encouraged to apply at the start of each competition cycle but can apply at any stage of the competition cycle. The committee should not unreasonably restrict membership of the team.
+Volunteers apply through the Competition Team Cmmittee to join the team. The committee will ensure the team has an appropriate balance of relevant skills. Volunteers will be encouraged to apply at the start of each competition cycle but can apply at any stage of the competition cycle. The committee should not unreasonably restrict membership of the team.
 
 ## The Competition Team Committee
 
-The Committee is a group of 3-5 people who are ultimately responsible for ensuring that the Competition Programme is delivered to the standard expected by the Trustees, coherent with the values of Student Robotics. The Committee is accountable to the Trustees.
+The Committee is a group of 3-5 people who are ultimately responsible for ensuring that the competition programme is delivered to the standard expected by the Trustees, coherent with the values of Student Robotics. The committee is accountable to the Trustees.
 
 The committee will focus on management of time, resources and volunteers within the team.  Delivering a competition is a huge undertaking and can require a significant investment of time and effort from volunteers and this workload must be  carefully managed. The committee will provide support and guidance to team members to allow them to be as effective as possible in delivering the competition. The Trustees will provide support, guidance  and training as necessary to allow the committee to be as effective as possible in managing the team.
 
@@ -78,17 +78,14 @@ Keep financial records (in a form to be agreed with the trustees).
 Submit final accounts (at the end of the competition cycle).
 Understand and follow the requirements defined in the Money Matters section (this defines how budgeting works in more detail).
 3. **Event management.** This committee member is responsible for overall management and delivery of the various events throughout the competition programme (Kickstart, Tech Days, Competition). This is a large responsibility and the committee member taking this on should not take on any of the other individual responsibilities.
-
 4. **Competitor team management.** This committee member is responsible for the management of teams taking part in the competition programme. They are expected to ensure that a sufficient quantity of school teams are signed-up to take part in the competition and that the teams that compete receive an adequate level of communication to allow them to get the most out of taking part in the competition programme. In particular they should ensure that sufficient notice is given to school teams to give them time to make the necessary preparations (schools usually require notice many months in advance of a major event).
-
-5. **Volunteer management.** This committee member is responsible for the management of two groups of volunteers: members of the team and other volunteers who are helping out at an event. In the case of team members they should ensure that all team members are given an opportunity to contribute towards delivering the competition programme and that they are guided to areas within the team that require more effort. They should handle requests from volunteers looking to join the team and also counsel team members looking to leave the team.
-In the case of volunteers helping out at events they should ensure that all volunteers are given visibility of event volunteering opportunities and that they receive adequate documentation, training and support for the roles that they fill at the events.
-
+5. **Volunteer management.** This committee member is responsible for the management of two groups of volunteers: members of the team and other volunteers who are helping out at an event. 
+* In the case of team members they should ensure that all team members are given an opportunity to contribute towards delivering the competition programme and that they are guided to areas within the team that require more effort. They should handle requests from volunteers looking to join the team and also counsel team members looking to leave the team.
+* In the case of volunteers helping out at events they should ensure that all volunteers are given visibility of event volunteering opportunities and that they receive adequate documentation, training and support for the roles that they fill at the events.
 6. **Safeguarding and welfare.** This committee member is responsible for ensuring that the Student Robotics [safeguarding policy](../about-the-charity/safeguarding.md) is abided by throughout the 11-month period and at events. They are also responsible for ensuring that all volunteers working on the competition programme (either in the team or as event volunteers) are not overworked and that the level of responsibility being taken on by any individual is kept at an acceptable level.
-
 7. **Gathering metrics.** This volunteer is responsible for ensuring that metrics are collected throughout the 11-month period. They should work with the Trustees early on to define a list of metrics to be gathered (e.g. number of school teams, average number of competitors per school team, average competitor to mentor face time per week, etc). It is of critical importance that SR gathers metrics to be able to optimise and improve the competition programme and to report to new and existing sponsors to prove the effectiveness of the competition programme.
 
-The committee is free to define other roles as it sees fit. It is also free (and strongly encouraged) to form sub-teams within the team to handle certain aspects of the competition programme. For example, the committee member responsible for Competitor Team Management should form a sub-team made up of volunteers who are primarily focused on the activities of managing school teams.
+The committee is free to define other roles as it sees fit. It is also free (and strongly encouraged) to form sub-teams within the team to handle certain aspects of the competition programme. For example, the committee member responsible for Competitor team management should form a sub-team made up of volunteers who are primarily focused on the activities of managing school teams.
 
 ### Accountability
 
