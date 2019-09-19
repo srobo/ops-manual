@@ -8,7 +8,7 @@ Each release of the Operations Manual has an entry on this page. Within this ent
 
 ## Unreleased \(\)
 
-## Version 6.1.0 \(2019-06-25\)
+## Version 6.1.0 \(2019-09-19\)
 
 ### Added
 
