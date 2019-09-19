@@ -8,7 +8,7 @@
   * [Safeguarding](about-the-charity/safeguarding.md)
   * [Money Matters](about-the-charity/money-matters.md)
 * [Robotics Competition](annual-robotics-competition/README.md)
-  * [Competition Programme Team](annual-robotics-competition/competition-programme-team.md)
+  * [Competition Team](annual-robotics-competition/competition-team.md)
   * [Kit Team](annual-robotics-competition/kit-team.md)  
 * [Miscellaneous](miscellaneous/README.md)
   * [Release Versioning](miscellaneous/release-versioning.md)
