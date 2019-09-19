@@ -10,9 +10,21 @@ Each release of the Operations Manual has an entry on this page. Within this ent
 
 ## Unreleased \(\)
 
+## Version 6.1.0 \(2019-06-25\)
+
 ### Added
 
 * [Kit Team](../annual-robotics-competition/kit-team.md) page
+
+### Changed
+
+* Details of Trustees
+* Name of Competition Programme Team to Competition Team
+* Updated layout and headings on Competition Team pages to align with Kit Team pages
+* Removed FAQs from Competition Team pages
+* Changed other pages to reflect the fact that there are now two key Teams
+* Removed 'emergency contact details' from data stored about volunteers
+* Recorded use of GSuite to manage organisation
 
 ## Version 6.0.0 \(2019-06-25\)
 
