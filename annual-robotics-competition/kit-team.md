@@ -55,11 +55,11 @@ The committee is collectively responsible for:
 
 The following responsibilities must be divided up among the committee members. Each responsibility listed below must be taken by a **single member**. 
 
-* Reporting to Trustees. This committee member is responsible for ensuring that the committee provides regular updates to the Trustees to update them on the work of the team. They must also ensure that minutes are taken at committee meetings and that these minutes are made publicly available.
-* Budget and expenditure management This committee member is responsible for drawing up an annual budget within the overall budget provided by the Trustees. They must submit the budget to the Trustees once it has been agreed. They must also do the following:
+* **Reporting to Trustees**. This committee member is responsible for ensuring that the committee provides regular updates to the Trustees to update them on the work of the team. They must also ensure that minutes are taken at committee meetings and that these minutes are made publicly available.
+* **Budget and expenditure management**. This committee member is responsible for drawing up an annual budget within the overall budget provided by the Trustees. They must submit the budget to the Trustees once it has been agreed. They must also do the following:
   * Keep financial records (in a form to be agreed with the trustees)
   * Understand and follow the requirements defined in the Money Matters section
-* Communicating with the Competition Team. This committee member is responsible for formal liaison with the Competition Team to make sure that any issues relating to the kit are communicated effectively and that the committee is kept fully aware of pressures and deadlines.
+* **Communicating with the Competition Team**. This committee member is responsible for formal liaison with the Competition Team to make sure that any issues relating to the kit are communicated effectively and that the committee is kept fully aware of pressures and deadlines.
 
 The committee should self-organise to elect these roles within their group, along with any other roles that they deem necessary, e.g. Software Coordinator.
 
