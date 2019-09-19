@@ -12,9 +12,9 @@ The task of detailed budgeting for a competition programme is delegated to the C
 4. All spending must be made within the most recently approved budget. It is the responsibility of each team treasurer to liaise with the Trustees to get a budget approved and to gain approval for any modifications to a previously approved budget.
 5. The Trustees must approve any reallocation of funds between budget lines where the amount being reallocated is greater than £1000. The committees are free to reallocate funds between budget lines below this threshold.
 6. The budget maintained by the committees must include, as a minimum, the following information for each budget line. 
-   1. Short name
-   2. Description \(ideally with some information as to how the amount was determined\)
-   3. Amount
+   * Short name
+   * Description \(ideally with some information as to how the amount was determined\)
+   * Amount
 7. It is advised that a 10% contingency is allocated to each budget line to allow for unforeseen changes in cost.
 8. Each committee must define and operate a system of authorising spends against lines in an approved budget. Volunteers must never spend their own money expecting reimbursement without explicit prior agreement from the team treasurer.
 9. Only the Trustees have access to the SR bank account. Therefore, all reimbursement claims must go via the Trustees. It is the responsibility of each team treasurer to ensure that evidence of purchase/expenditure \(receipt/invoice\) and a record of the spend against specific budget line\(s\) is recorded for each transaction. This information must not be made public for the same reason as the budget not being made public \(it is also likely to include personal information such as addresses\). The Trustees may request access to this information at any time.
