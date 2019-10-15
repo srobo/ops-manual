@@ -2,20 +2,26 @@
 
 ## Purpose
 
-The purpose of the Kit Team is to oversee and manage the development, maintenance and support of the SR Kit.  The Kit Team is responsible for providing a Kit Service to the Competition team in order to enable the SR Competition Programme.
+The purpose of the Kit Team is to provide a Kit Service to enable the SR Competition Programme.  
 
-The kit is defined as the hardware and software (including software services) that are provided to school teams to enable them to take part in the annual robotics competition.
+The Kit is defined as the hardware and software (including software services) that are provided to school teams to enable them to take part in the annual robotics competition.
 
 The Kit Service includes, but is not limited to:
 * Provision of sufficient working kit to meet the needs of the Competition Team
+* Delivery of kit to Kickstart location(s) as agreed with Competiton Team
+* Checking kit out to teams at Kickstart events
+* Shipping kits to teams that cannot attend a Kickstart event
+* Dealing with any kit problems and issuing replacement parts as needed throughout the competition cycle
+* Providing technical documentation for competitors and for volunteers
+* Providing technical support to competitors and volunteers (both remote and in-person at events)
 * Recovering and checking kit following a competition cycle
+* Chasing any missing kit including kit not returned
 * Storing the kit safely
 * Maintaining an inventory of the kit 
 * Development of kit 
 * Maintenance of kit (both during and outside of the competition cycle)
 * Manufacture/purchasing of kit 
-* Technical documentation for competitors and for volunteers
-* Technical support to competitors and volunteers (both remote and in-person at events)
+
 
 ## Structure and Operation
 
