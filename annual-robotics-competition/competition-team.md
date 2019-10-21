@@ -4,10 +4,11 @@
 
 The Competition Team is responsible for defining and delivering the SR Competition Programme \('the competition programme'\) for a single competition cycle \(11 months\).
 
-The competition programme includes, but is not limited to:
+The SR Competition Programme includes, but is not limited to:
 
 * Recruiting teams from schools and colleges
-* Communicating with school/college team leaders
+* Determining a fair method for selecting teams if over subscribed
+* Communicating with school/college team leaders throughout
 * Devising a challenge
 * Organising and running Kickstart
 * Organising and running Tech days
