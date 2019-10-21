@@ -9,11 +9,13 @@ The SR Competition Programme includes, but is not limited to:
 * Recruiting teams from schools and colleges
 * Determining a fair method for selecting teams if over subscribed
 * Communicating with school/college team leaders throughout
+* Liaising with Kit Team to agree the number of teams and number of locations that can be supported
 * Devising a challenge
+* Recruiting and training sufficient volunteers
 * Organising and running Kickstart
 * Organising and running Tech days
-* Organising and running the competition final
-* Health and Safety and safeguarding at events
+* Organising and running the Competition final
+* Health and Safety and Safeguarding at events
 * Gathering metrics throughout the competition cycle
 
 ## Structure and Operation
