@@ -24,7 +24,7 @@ The Competition Team is a group of volunteers who work together, and closely wit
 
 The team (and its committee) operates on an 11-month cycle (see Formation and Dissolution below).
 
-Volunteers apply through the Competition Team Cmmittee to join the team. The committee will ensure the team has an appropriate balance of relevant skills. Volunteers will be encouraged to apply at the start of each competition cycle but can apply at any stage of the competition cycle. The committee should not unreasonably restrict membership of the team.
+Volunteers apply through the Competition Team Committee to join the team. The committee will ensure the team has an appropriate balance of relevant skills. Volunteers will be encouraged to apply at the start of each competition cycle but can apply at any stage of the competition cycle. The committee should not unreasonably restrict membership of the team.
 
 ## The Competition Team Committee
 
