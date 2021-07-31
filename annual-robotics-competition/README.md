@@ -24,7 +24,11 @@ Services teams:
 * [Fundraising team](fundraising-team.md)
 
 The planning, management and delivery of the competition programme is the remit of the Competition Team and it is up to the Competition Team Committee to define the programme for a given annual cycle.
+
 A competition programme requires teams to participate and volunteers to help run it, it is the responsibility of the Marketing team to source these teams and volunteers.
+
 Delivery of the competition programme isn't possible without a kit to run the competition around, providing this kit is the responsibility of the Kit Team.
+
 SR uses a number of software services to provide the competition programme, for example the website servers, SR accounts, and GitHub. The Infrastructure Team is responsible for maintaining these.
+
 All the teams require funding to operate, it is the responsibility of the Fundraising Team to source funding to support the other teams.
