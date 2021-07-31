@@ -14,9 +14,9 @@ Approximately three weeks before the new team is to be formed, all registered SR
 
 ### Formation
 
-The committee is formed at a meeting with the Trustees. If more than 5 volunteers register an interest in being on the committee they will all be invited to the formation meeting, however only 5 of them will be allowed to become committee members. If more than 10 volunteers register an interest in being on the committee then the Trustees select a short-list of 10 volunteers to invite to the formation meeting, based on the skills and experience they could bring to the committee. Any volunteers who register an interest in being on the committee but are not selected are contacted if vacancies appear on the committee during the 11-month period.
+The committee is formed at a meeting with the Trustees. If more than 3 volunteers register an interest in being on the committee they will all be invited to the formation meeting, however only 3 of them will be allowed to become committee members. If more than 10 volunteers register an interest in being on the committee then the Trustees select a short-list of 10 volunteers to invite to the formation meeting, based on the skills and experience they could bring to the committee. Any volunteers who register an interest in being on the committee but are not selected are contacted if vacancies appear on the committee during the 11-month period.
 
-At the meeting, the Trustees discuss their expectations for the competition programme (based on feedback from the previous year’s cycle) and clarify any concerns about roles and responsibilities.  Each year, the Trustees provide guidance as to the direction in which they would like to the competition programme to be taken and where they would like the committee to focus their efforts. For example, it may be the case that the Trustees would like to expand the number of school teams, or they may want the committee to focus on increasing volunteer engagement. After discussing these points, and answering any questions, the Trustees leave the meeting, allowing a short time for discussion. On return, they ask for a show of hands of people who would like to join the committee. If more than 5 people indicate a desire to join the committee at this stage, the Trustees select the 5 people that they feel are most able to take on the responsibilities of the committee.
+At the meeting, the Trustees discuss their expectations for the approaching year (based on feedback from the previous year’s cycle) and clarify any concerns about roles and responsibilities. Each year, the Trustees provide guidance as to the direction in which they would like the approaching year to be taken and where they would like the committee to focus their efforts. For example, it may be the case that the Trustees would like to expand the number of school teams, or they may want the committee to focus on increasing volunteer engagement. After discussing these points, and answering any questions, the Trustees leave the meeting, allowing a short time for discussion. On return, they ask for a show of hands of people who would like to join the committee. If more than 3 people indicate a desire to join the committee at this stage, the Trustees select the 3 people that they feel are most able to take on the responsibilities of the committee.
 
 ### The First Few Weeks
 
@@ -31,6 +31,10 @@ At the end of the term of office, the committee is invited to meet with the Trus
 ### Joining the committee
 
 Volunteers join the committee by application to the Trustees. The committee will operate on a continuous/rolling timeline. Each member has a maximum term of two years, after which they are automatically retired from the committee. Before the conclusion of the two year term the member may apply to the Trustees to extend their term for a further two years, without a gap in membership. 
+
+### Yearly updates
+
+Once a year, around early July, the committee will meet with the Trustees. At the meeting, the Trustees discuss their expectations for the approaching year and clarify any concerns about roles or responsibilities. Each year, the Trustees provide guidance as to the direction in which they would like the approaching year to be taken and where they would like the committee to focus their efforts. For example, it may be the case that the Trustees would like to expand the number of kits available, or they may want the committee to focus on increasing team support.
 
 ## Common
 
