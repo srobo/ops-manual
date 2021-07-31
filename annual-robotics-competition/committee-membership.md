@@ -30,7 +30,11 @@ At the end of the term of office, the committee is invited to meet with the Trus
 
 ### Joining the committee
 
-Volunteers join the committee by application to the Trustees. The committee will operate on a continuous/rolling timeline. Each member has a maximum term of two years, after which they are automatically retired from the committee. Before the conclusion of the two year term the member may apply to the Trustees to extend their term for a further two years, without a gap in membership. 
+Volunteers join the committee by application to the Trustees. The committee will operate on a continuous/rolling timeline. Each member has a maximum term of two years, after which they are automatically retired from the committee. Before the conclusion of the two year term the member may apply to the Trustees to extend their term for a further two years, without a gap in membership.
+
+### Registration of Interest
+
+All registered SR volunteers are able to express an interest in being part of the committee at any time during the current committees term of office. The Trustees may choose to directly invite all registered SR volunteers to express an interest in being part of the committee or team in advance of filling a role. Previous members of the committee and/or team are welcome to register interest. 
 
 ### Yearly updates
 
@@ -40,4 +44,4 @@ Once a year, around early July, the committee will meet with the Trustees. At th
 
 ### Resignation of a Committee Member
 
-If a committee member wishes to resign part-way through their term of office they email the Trustees. The Trustees work with the individual to see if there is any further help and support that they can provide to allow the volunteer  to continue in their role. If there is no option for the individual to continue, the Trustees work with the rest of the committee to find a volunteer to become a replacement committee member. Volunteers that indicated a desire to be on the committee at the start of the cycle, but were not selected due to the size restrictions, are considered first.
+If a committee member wishes to resign part-way through their term of office they email the Trustees. The Trustees work with the individual to see if there is any further help and support that they can provide to allow the volunteer  to continue in their role. If there is no option for the individual to continue, the Trustees work with the rest of the committee to find a volunteer to become a replacement committee member. Volunteers that indicated a desire to be on the committee at the start of the cycle, but were not selected due to the size restrictions, are considered first, followed by those who registered an interest at other points during the term of office.
