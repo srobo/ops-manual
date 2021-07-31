@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The marketing team are responsible for attracting new teams and volunteers into SR. They will be looking at attracting teams for both the current and, in later months, the following competition cycle.
+The marketing team are an Events team responsible for attracting new teams and volunteers into SR. They will be looking at attracting teams for both the current and, in later months, the following competition cycle.
 
 They are responsible for managing:
 * Website content
