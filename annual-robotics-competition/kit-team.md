@@ -37,6 +37,7 @@ The Kit Team Committee is a group of 3-5 people who develop and clearly communic
 
 ### Collective responsibilities of the committee
 
+In addition to the [common responsibilities](./common-responsibilities.md), the kit team has the following responsibilities:
 The committee is collectively responsible for:
 
 * Communicating a strategic vision for the kit.
