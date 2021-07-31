@@ -7,6 +7,7 @@ All teams have the following responsibilites:
 * Documenting their processes/tools
 * Raising any concerns to the trustees
 * Maintaining decision log from meetings
+* Seeking guidance from the trustees
 * Reporting to the trustees on progress
 * Ensuring a clean handover with future committees
 
@@ -37,6 +38,9 @@ All important decisions made by the team should be logged in a document, listing
 * Proportion of vote
 
 This document is stored in the organisation shared drive.
+
+## Seeking guidance from the Trustees
+The team committee is responsible for seeking guidance from the Trustees as to the direction they should take for the coming year.
 
 ## Reporting to Trustees
 The team committee is responsible for ensuring that the committee provides regular updates to the Trustees to keep them in-the-loop with the progress of delivering the competition programme. This is accomplished by arranging for online (Google Hangouts/Meet) calls at least once every month.
