@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The Kit Team is a Services team tasked with developing and maintaining the SR Kit, and to provide a Kit Service to enable the SR Competition Programme.  
+The Kit Team is a Services team tasked with developing and maintaining the SR Kit, and to provide a Kit Service to enable the SR Competition Programme.
 
 The Kit is defined as the hardware and software (including software services) that are provided to school teams to enable them to take part in the annual robotics competition.
 
@@ -25,7 +25,7 @@ The Kit Service includes, but is not limited to:
 
 The Kit Team is a group of volunteers that work together to provide a Kit Service. The team is lead by a committee that is responsible for fulfilling the aims of the team.
 
-The  Kit Team is separate from the Competition Team. However, it is expected that Kit Team volunteers will have previously volunteered with the Competition Team and that volunteers from both teams will be available to help run the annual competition. 
+The Kit Team is separate from the Competition Team. However, it is expected that Kit Team volunteers will have previously volunteered with the Competition Team and that volunteers from both teams will be available to help run the annual competition. 
 
 Volunteers apply through the Kit Team Committee to join the team. The committee will ensure the team has an appropriate balance of relevant skills. The committee should not unreasonably restrict membership of the team.
 

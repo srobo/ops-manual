@@ -22,20 +22,21 @@ The SR Competition Programme includes, but is not limited to:
 
 The Competition Team is a group of volunteers who work together, and closely with other teams within SR, to define and deliver the competition programme. The team is lead by a committee that is responsible for fulfilling the aims of the team.
 
-The team (and its committee) operates on an 11-month cycle (see Formation and Dissolution below).
+The team (and its committee) operates on an 11-month cycle (see [Formation and Dissolution](committee-involvement.md)).
 
 Volunteers apply through the Competition Team Committee to join the team. The committee will ensure the team has an appropriate balance of relevant skills. Volunteers will be encouraged to apply at the start of each competition cycle but can apply at any stage of the competition cycle. The committee should not unreasonably restrict membership of the team.
 
 ## The Competition Team Committee
 
-The Committee is a group of 3-5 people who are ultimately responsible for ensuring that the competition programme is delivered to the standard expected by the Trustees, coherent with the values of Student Robotics. The committee is accountable to the Trustees.
+The Committee is a group of 3 people who are ultimately responsible for ensuring that the competition programme is delivered to the standard expected by the Trustees, coherent with the values of Student Robotics. The committee is accountable to the Trustees.
 
-The committee will focus on management of time, resources and volunteers within the team.  Delivering a competition is a huge undertaking and can require a significant investment of time and effort from volunteers and this workload must be  carefully managed. The committee will provide support and guidance to team members to allow them to be as effective as possible in delivering the competition. The Trustees will provide support, guidance  and training as necessary to allow the committee to be as effective as possible in managing the team.
+The committee will focus on management of time, resources and volunteers within the team. Delivering a competition is a huge undertaking and can require a significant investment of time and effort from volunteers and this workload must be carefully managed. The committee will provide support and guidance to team members to allow them to be as effective as possible in delivering the competition. The Trustees will provide support, guidance and training as necessary to allow the committee to be as effective as possible in managing the team.
 
 
 ## Roles and Responsibilities of the Competition Team Committee
 
 In addition to the [common responsibilities](./common-responsibilities.md), the competition team has the following responsibilities:
+
 ### Collective Responsibilities
 
 The committee takes on the following collective responsibilities at the start of the competition cycle, and within 4 weeks of the formation meeting.
@@ -68,4 +69,4 @@ Minutes of meetings should be made available to the general public although acce
 
 ### Budget
 
-A budget will be made available to run the competition programme. The responsibility for this budget will be delegated to the committee member responsible for Budget and expenditure management as defined above. 
+A budget will be made available to run the competition programme. The responsibility for this budget will be delegated to an individual committee member.
