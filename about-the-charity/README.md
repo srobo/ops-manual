@@ -12,10 +12,9 @@ David is a full time teacher at Hills Road Sixth Form College, teaching physics 
 
 Diane works for the Raspberry Pi Foundation. She was previously Head of Computer Science at a Collyer's Sixth Form College in Horsham and has been involved in Student Robotics as a team Leader since 2013. Diane became a Trustee in January 2018.
 
-### Thomas Scarsbrook.
+### Thomas Scarsbrook
 
-Thomas became a Trustee in xxxx 2020.
-
+Thomas, more commonly known as "Scarzy", is an electronics consultant based in Surrey. He started volunteering for Student Robotics when he joined Southampton Uni in 2009, and became a trustee in November 2020.
 
 ## Postal Address
 
