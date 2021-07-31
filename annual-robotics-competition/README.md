@@ -13,9 +13,11 @@ The teams are divided into 2 categories:
 This division of teams is to aid understanding of remits of the different teams.
 
 The principle teams are as follows:
+
 Events teams:
 * [Competition team](competition-team.md)
 * [Marketing team](marketing-team.md)
+
 Services teams:
 * [Kit team](kit-team.md)
 * [Infrastructure team](infrastructure-team.md)
