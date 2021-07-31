@@ -36,6 +36,8 @@ All important decisions made by the team should be logged in a document, listing
 * Who was present
 * Proportion of vote
 
+This document is stored in the organisation shared drive.
+
 ## Reporting to Trustees
 The team committee is responsible for ensuring that the committee provides regular updates to the Trustees to keep them in-the-loop with the progress of delivering the competition programme. This is accomplished by arranging for online (Google Hangouts/Meet) calls at least once every month.
 
