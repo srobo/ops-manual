@@ -33,14 +33,7 @@ Volunteers apply through the Kit Team Committee to join the team. The committee 
 ## The Kit Team Committee
 
 The Kit Team Committee is a group of 3-5 people who develop and clearly communicate a strategic vision, coherent with the values of Student Robotics, for the Kit. The committee ensures that resources are always used in the best interests of the charity and is accountable to the Trustees, The committee delegates responsibilities and resources to the rest of the team.
-
-### Joining the committee
-
-Volunteers join the committee by application to the Trustees. The committee will operate on a continuous/rolling timeline. Each member has a maximum term of two years, after which they are automatically retired from the committee. Before the conclusion of the two year term the member may apply to the Trustees to extend their term for a further two years, without a gap in membership. 
-
-### Resignation of a committee member
-
-If a committee member wishes to resign they should email the Trustees. The Trustees will work with the individual to see if there is any more help and support that they can provide to allow them to continue in their role. If there is no option for the individual to continue, the Trustees will work with the rest of the committee to find a volunteer to become a replacement committee member. 
+ 
 
 ### Collective responsibilities of the committee
 
