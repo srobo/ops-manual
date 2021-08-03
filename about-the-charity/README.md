@@ -6,7 +6,7 @@ Student Robotics is a charity, registered on 18th August 2015 in England and Wal
 
 ### David Massey
 
-David is a full time teacher at Hills Road Sixth Form College, teaching physics and electronics A-level. He has been involved in sixth form robotics competitions since 2001 and has taken part in Student Robotics since 2012. He became a Trustee in January 2018.
+David is a retired teacher from Hills Road Sixth Form College, teaching physics and electronics A-level. He has been involved in sixth form robotics competitions since 2001 and has taken part in Student Robotics since 2012. He became a Trustee in January 2018.
 
 ### Diane Dowling
 
