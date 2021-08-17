@@ -8,6 +8,20 @@ Each release of the Operations Manual has an entry on this page. Within this ent
 
 ## Unreleased \(\)
 
+### Added
+
+* Infrastructure Team
+* Marketing Team
+* Fundraising Team
+* Team common responsibilities
+
+### Changed
+
+* Details of Trustees
+* Teams overview
+
+### Removed
+
 ## Version 6.1.0 \(2019-09-19\)
 
 ### Added

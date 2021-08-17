@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The purpose of the Kit Team is to develop and maintain the SR Kit and to provide a Kit Service to enable the SR Competition Programme.  
+The Kit Team is a Services team tasked with developing and maintaining the SR Kit, and to provide a Kit Service to enable the SR Competition Programme.
 
 The Kit is defined as the hardware and software (including software services) that are provided to school teams to enable them to take part in the annual robotics competition.
 
@@ -21,30 +21,21 @@ The Kit Service includes, but is not limited to:
 * Storing the kit safely
 * Maintaining an inventory of the kit
 
-
 ## Structure and Operation
 
 The Kit Team is a group of volunteers that work together to provide a Kit Service. The team is lead by a committee that is responsible for fulfilling the aims of the team.
 
-The  Kit Team is separate from the Competition Team. However, it is expected that Kit Team volunteers will have previously volunteered with the Competition Team and that volunteers from both teams will be available to help run the annual competition. 
+The Kit Team is separate from the Competition Team. However, it is expected that Kit Team volunteers will have previously volunteered with the Competition Team and that volunteers from both teams will be available to help run the annual competition. 
 
 Volunteers apply through the Kit Team Committee to join the team. The committee will ensure the team has an appropriate balance of relevant skills. The committee should not unreasonably restrict membership of the team.
 
 ## The Kit Team Committee
 
-The Kit Team Committee is a group of 3-5 people who develop and clearly communicate a strategic vision, coherent with the values of Student Robotics, for the Kit. The committee ensures that resources are always used in the best interests of the charity and is accountable to the Trustees, The committee delegates responsibilities and resources to the rest of the team.
-
-### Joining the committee
-
-Volunteers join the committee by application to the Trustees. The committee will operate on a continuous/rolling timeline. Each member has a maximum term of two years, after which they are automatically retired from the committee. Before the conclusion of the two year term the member may apply to the Trustees to extend their term for a further two years, without a gap in membership. 
-
-### Resignation of a committee member
-
-If a committee member wishes to resign they should email the Trustees. The Trustees will work with the individual to see if there is any more help and support that they can provide to allow them to continue in their role. If there is no option for the individual to continue, the Trustees will work with the rest of the committee to find a volunteer to become a replacement committee member. 
+The Kit Team Committee is a group of 3 people who develop and clearly communicate a strategic vision, coherent with the values of Student Robotics, for the Kit. The committee ensures that resources are always used in the best interests of the charity and is accountable to the Trustees, The committee delegates responsibilities and resources to the rest of the team.
 
 ### Collective responsibilities of the committee
 
-The committee is collectively responsible for:
+In addition to the [common responsibilities](./common-responsibilities.md), the kit team has the following responsibilities:
 
 * Communicating a strategic vision for the kit.
 * Ensuring that resources are deployed only for the purposes of delivering the Student Robotics Competition Programme or as directed by the Trustees.
@@ -53,21 +44,7 @@ The committee is collectively responsible for:
 * The management of the workload of members of the team.
 * Ensuring projects are open source, open to contribution from external parties, and inviting to work on by volunteers.
 * Assigning and managing projects/maintenance to team members, this may be assigned to self organising subgroups of individuals.
-* Communicating with the Competition Team Committee to ensure successful delivery of the annual competition programme.
 * Maintain documentation of processes and anything else that they feel relevant relating to their responsibilities to help both current and future volunteers This documentation should be licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
-
-### Individual Responsibilities/Roles within the committee
-
-The following responsibilities must be divided up among the committee members. Each responsibility listed below must be taken by a **single member**. 
-
-* **Reporting to Trustees**. This committee member is responsible for ensuring that the committee provides regular updates to the Trustees to update them on the work of the team. They must also ensure that minutes are taken at committee meetings and that these minutes are made publicly available.
-* **Budget and expenditure management**. This committee member is responsible for drawing up an annual budget within the overall budget provided by the Trustees. They must submit the budget to the Trustees once it has been agreed. They must also do the following:
-  * Keep financial records (in a form to be agreed with the trustees)
-  * Understand and follow the requirements defined in the Money Matters section
-* **Communicating with the Competition Team**. This committee member is responsible for formal liaison with the Competition Team to make sure that any issues relating to the kit are communicated effectively and that the committee is kept fully aware of pressures and deadlines.
-
-The committee should self-organise to elect these roles within their group, along with any other roles that they deem necessary, e.g. Software Coordinator.
-
 
 ## Accountability
 
