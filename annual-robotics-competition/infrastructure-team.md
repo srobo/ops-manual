@@ -6,9 +6,9 @@ The Infrastructure Team is a Services team responsible for providing and maintai
 This includes, but is not limited to:
 * setting up and maintaining servers to support SR operations including the deployment of the public facing web site
 * setting up and maintaining the organisation's domains (studentrobotics.org and srobo.org)
-* maintaining the security of the infrastructure
-* organising and maintaining the structure of GitHub repositories and permissions
-* setting up and maintaining G-Suite and GitHub accounts for SR volunteers
+* maintaining the security of the infrastructure and related services
+* setting up and maintaining the structure of GitHub organisations and permissions
+* setting up and maintaining G-Suite accounts for SR volunteers
 * providing support and guidance on best-practises to other teams or volunteers on infrastructure and services where possible
 * The infrastructure team is not responsible for content beyond ensuring it does not break other functionality
 
@@ -28,6 +28,10 @@ The committee will focus on management of time, resources and volunteers within 
 ## Roles and Responsibilities
 
 In addition to the [common responsibilities](./common-responsibilities.md), the infrastructure team has the following responsibilities:
+
+* Maintaining a list of core services (i.e. services central to Student Robotics operation)
+* Maintaining a list of team services (i.e. services maintained especially for and by another team)
+* Ensuring continuous/enduring access to SR services
 
 ### Accountability
 
