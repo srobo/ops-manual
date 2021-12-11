@@ -18,7 +18,7 @@ Thomas, more commonly known as "Scarzy", is an electronics consultant based in S
 
 ## Postal Address
 
-The postal address of Student Robotics is shown below. All Trustees have access to mail sent to this address through a web platform.
+The postal address of Student Robotics is shown below. All Trustees have access to mail sent to this address, access is through a web platform.
 
 ```text
 Student Robotics
