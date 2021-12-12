@@ -25,6 +25,8 @@ Unlike the other teams, the Fundraising Team committee is the Trustees. This is 
 
 In addition to the [common responsibilities](./common-responsibilities.md), the team has the following responsibilities:
 
+* Contact sponsors to arrange funding
+
 ### Accountability
 
 The Fundraising Team is accountable to the Trustees. The Fundraising Team will make a report the Trustees at least once every month to report on progress and to highlight any areas of concern. 
