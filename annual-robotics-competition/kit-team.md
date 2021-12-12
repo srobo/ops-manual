@@ -33,9 +33,11 @@ Volunteers apply through the Kit Team Committee to join the team. The committee 
 
 The Kit Team Committee is a group of 3 people who develop and clearly communicate a strategic vision, coherent with the values of Student Robotics, for the Kit. The committee ensures that resources are always used in the best interests of the charity and is accountable to the Trustees, The committee delegates responsibilities and resources to the rest of the team.
 
-### Collective responsibilities of the committee
+## Roles and Responsibilities
 
 In addition to the [common responsibilities](./common-responsibilities.md), the kit team has the following responsibilities:
+
+### Collective responsibilities of the committee
 
 * Communicating a strategic vision for the kit.
 * Ensuring that resources are deployed only for the purposes of delivering the Student Robotics Competition Programme or as directed by the Trustees.
