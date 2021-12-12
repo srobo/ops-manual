@@ -1,4 +1,4 @@
-# Committee Involvement
+# Committee Membership
 
 Events teams and Services teams operate slightly differently in terms of the terms of office and committee operation.
 
