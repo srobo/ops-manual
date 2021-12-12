@@ -25,7 +25,11 @@ Unlike the other teams, the Fundraising Team committee is the Trustees. This is 
 
 In addition to the [common responsibilities](./common-responsibilities.md), the team has the following responsibilities:
 
+### Collective responsibilities
+
 * Contact sponsors to arrange funding
+* Ensuring all perks due to sponsors are appropriately supplied
+* Maintaining links with sponsors
 
 ## Accountability
 
