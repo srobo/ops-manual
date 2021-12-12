@@ -19,7 +19,7 @@ The team operates continuously (see [Formation and Dissolution](committee-involv
 Volunteers apply through the Fundraising Team Committee to join the team. The committee will ensure the team has an appropriate balance of relevant skills. Volunteers will be encouraged to apply at the start of each competition cycle but can apply at any time. The committee should not unreasonably restrict membership of the team.
 
 ## The Committee
-Unlike the other teams, the Fundraising Team committee is the Trustees. This is due to most sponsor applications requiring Trustee involvement anyway, and any decisions around sponsor suitability have to be made at Trustee level, so a separate committee would not be able to make any meaninful decisions.
+Unlike the other teams, the Fundraising Team committee is the Trustees. This is due to most sponsor applications requiring Trustee involvement anyway, and any decisions around sponsor suitability have to be made at Trustee level, so a separate committee would not be able to make any meaningful decisions.
 
 ## Roles and Responsibilities
 
