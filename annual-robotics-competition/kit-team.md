@@ -37,7 +37,7 @@ The Kit Team Committee is a group of 3 people who develop and clearly communicat
 
 In addition to the [common responsibilities](./common-responsibilities.md), the kit team has the following responsibilities:
 
-### Collective responsibilities of the committee
+### Collective responsibilities
 
 * Communicating a strategic vision for the kit.
 * Ensuring that resources are deployed only for the purposes of delivering the Student Robotics Competition Programme or as directed by the Trustees.
