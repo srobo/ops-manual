@@ -1,4 +1,4 @@
-# Team Common Responsibilites
+# Common Responsibilites
 
 All teams have the following responsibilites:
 * Supporting the recruitment of volunteers for across the organisation
