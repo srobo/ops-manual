@@ -16,7 +16,7 @@ This includes, but is not limited to:
 
 The Infrastructure Team is a group of volunteers who work together, and closely with other teams within SR, to provide infrastructure services enabling the other teams to operate. The team is lead by a committee that is responsible for fulfilling the aims of the team.
 
-The team operates continuosly with committee members having a 24-month term of office (see [Formation and Dissolution](committee-involvement.md)).
+The team operates continuously with committee members having a 24-month term of office (see [Formation and Dissolution](committee-involvement.md)).
 
 Volunteers apply through the Infrastucture Team Committee to join the team. The committee will ensure the team has an appropriate balance of relevant skills. Volunteers will be encouraged to apply at the start of each competition cycle but can apply at any time. The committee should not unreasonably restrict membership of the team.
 
