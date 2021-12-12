@@ -14,7 +14,7 @@ This includes, but is not limited to:
 
 The Fundraising Team is a group of volunteers who work together, and closely with other teams within SR, to ensure there is sufficient funding for the teams to operate. The team is lead by a committee that is responsible for fulfilling the aims of the team.
 
-The team operates continuosly (see [Formation and Dissolution](committee-involvement.md)).
+The team operates continuously (see [Formation and Dissolution](committee-involvement.md)).
 
 Volunteers apply through the Fundraising Team Committee to join the team. The committee will ensure the team has an appropriate balance of relevant skills. Volunteers will be encouraged to apply at the start of each competition cycle but can apply at any time. The committee should not unreasonably restrict membership of the team.
 
