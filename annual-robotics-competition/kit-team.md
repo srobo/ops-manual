@@ -61,5 +61,5 @@ A budget will be made available to allow the kit to be stored safely and maintai
 
 Specific budgeting for development projects will be managed on a case by case basis, applying for budget from the Trustees in each of these cases. 
 
-A "Development Pot" will be made available to cover low-cost resources used in the development process.
+A "Development Pot" line should be requested, and will be made available to cover low-cost resources used in the development process.
 
