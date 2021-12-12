@@ -53,7 +53,7 @@ In addition to the [common responsibilities](./common-responsibilities.md), the 
 
 The Kit Team is accountable to the Trustees. A report will be delivered by the committee member responsible for reporting to the Trustees, every 4 months, to update them on the work of the team and the state of the kit.
 
-Minutes of meetings should be made available to the general public although access to any sensitive commercial data, may be restricted to the Trustees.
+Minutes of meetings should be made available to the general public, although access to any sensitive commercial data may be restricted to the Trustees.
 
 ## Budget
 
