@@ -35,7 +35,7 @@ In addition to the [common responsibilities](./common-responsibilities.md), the 
 
 The Marketing Team is accountable to the Trustees. The committee member responsible for reporting to the Trustees will speak in person with the Trustees at least once every month to report on progress and to highlight any areas of concern. 
 
-Minutes of meetings should be made available to the general public although access to any sensitive commercial data, may be restricted to the Trustees.
+Minutes of meetings should be made available to the general public, although access to any sensitive commercial data may be restricted to the Trustees.
 
 ## Budget
 
