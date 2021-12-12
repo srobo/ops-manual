@@ -4,12 +4,12 @@
 The Infrastructure Team is a Services team responsible for providing and maintaining the computing infrastructure required for the other teams to operate.
 
 This includes, but is not limited to:
-* setting up and maintaining servers to support SR operations including the deployment of the public facing web site
-* setting up and maintaining the organisation's domains (studentrobotics.org and srobo.org)
-* maintaining the security of the infrastructure and related services
-* setting up and maintaining the structure of GitHub organisations and permissions
-* setting up and maintaining G-Suite accounts for SR volunteers
-* providing support and guidance on best-practises to other teams or volunteers on infrastructure and services where possible
+* Setting up and maintaining servers to support SR operations including the deployment of the public facing web site
+* Setting up and maintaining the organisation's domains (studentrobotics.org and srobo.org)
+* Maintaining the security of the infrastructure and related services
+* Setting up and maintaining the structure of GitHub organisations and permissions
+* Setting up and maintaining G-Suite accounts for SR volunteers
+* Providing support and guidance with regards to best-practices to other teams or volunteers on infrastructure and services where possible
 * The infrastructure team is not responsible for content beyond ensuring it does not break other functionality
 
 ## Structure and Operation
