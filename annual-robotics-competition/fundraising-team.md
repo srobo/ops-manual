@@ -27,9 +27,9 @@ In addition to the [common responsibilities](./common-responsibilities.md), the 
 
 ### Accountability
 
-The Competition Team is accountable to the Trustees. The committee member responsible for reporting to the Trustees will speak in person with the Trustees at least once every month to report on progress and to highlight any areas of concern. 
+The Fundraising Team is accountable to the Trustees. The Fundraising Team will make a report the Trustees at least once every month to report on progress and to highlight any areas of concern. 
 
-Minutes of meetings should be made available to the general public although access to any sensitive commercial data, may be restricted to the Trustees.
+Due to their commerially sensitive nature, minutes of meetings will not automatically be made available to the general public. Release of this information requires approval of the Trustees.
 
 ### Budget
 
