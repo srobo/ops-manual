@@ -33,12 +33,12 @@ In addition to the [common responsibilities](./common-responsibilities.md), the 
 * Maintaining a list of team services (i.e. services maintained especially for and by another team)
 * Ensuring continuous/enduring access to SR services
 
-### Accountability
+## Accountability
 
 The Competition Team is accountable to the Trustees. The committee member responsible for reporting to the Trustees will speak in person with the Trustees at least once every month to report on progress and to highlight any areas of concern. 
 
 Minutes of meetings should be made available to the general public although access to any sensitive commercial data, may be restricted to the Trustees.
 
-### Budget
+## Budget
 
 A budget will be made available to purchase infrastructure services. The responsibility for this budget will be delegated to an individual committee member.
