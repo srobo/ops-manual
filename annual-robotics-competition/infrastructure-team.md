@@ -30,7 +30,7 @@ The committee will focus on management of time, resources and volunteers within 
 In addition to the [common responsibilities](./common-responsibilities.md), the infrastructure team has the following responsibilities:
 
 * Maintaining a list of core services (i.e. services central to Student Robotics operation)
-* Maintaining a list of team services (i.e. services maintained especially for and by another team)
+* Maintaining a list of team services (i.e. services maintained especially for and in collaboration with another team)
 * Ensuring continuous/enduring access to SR services
 
 ## Accountability
