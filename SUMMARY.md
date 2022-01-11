@@ -6,7 +6,7 @@
   * [Volunteers](about-the-charity/volunteers.md)
   * [Code of Conduct](about-the-charity/code-of-conduct.md)
   * [Safeguarding](about-the-charity/safeguarding/safeguarding.md)
-    * [DBS](about-the-charity/safeguarding/DBS.md)
+    * [DBS](about-the-charity/safeguarding/dbs.md)
   * [Money Matters](about-the-charity/money-matters.md)
 * [Robotics Competition](annual-robotics-competition/README.md)
   * [Common Responsibilites](annual-robotics-competition/common-responsibilities.md)
