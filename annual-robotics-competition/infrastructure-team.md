@@ -20,7 +20,7 @@ The Infrastructure Team is a group of volunteers who work together, and closely 
 
 The team operates continuously with committee members having a 24-month term of office (see [Formation and Dissolution](committee-involvement.md)).
 
-Volunteers apply through the Infrastucture Team Committee to join the team. The committee will ensure the team has an appropriate balance of relevant skills. Volunteers will be encouraged to apply at the start of each competition cycle but can apply at any time. The committee should not unreasonably restrict membership of the team.
+Volunteers apply through the Infrastructure Team Committee to join the team. The committee will ensure the team has an appropriate balance of relevant skills. Volunteers will be encouraged to apply at the start of each competition cycle but can apply at any time. The committee should not unreasonably restrict membership of the team.
 
 ## The Committee
 
