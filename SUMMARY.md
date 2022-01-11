@@ -8,14 +8,13 @@
   * [Safeguarding](about-the-charity/safeguarding.md)
   * [Money Matters](about-the-charity/money-matters.md)
 * [Robotics Competition](annual-robotics-competition/README.md)
+  * [Common Responsibilites](annual-robotics-competition/common-responsibilities.md)
+  * [Committee Membership](annual-robotics-competition/committee-membership.md)
   * [Competition Team](annual-robotics-competition/competition-team.md)
-  * [Kit Team](annual-robotics-competition/kit-team.md)  
+  * [Marketing Team](annual-robotics-competition/marketing-team.md)
+  * [Kit Team](annual-robotics-competition/kit-team.md)
+  * [Infrastructure Team](annual-robotics-competition/infrastructure-team.md)
+  * [Fundraising Team](annual-robotics-competition/fundraising-team.md)
 * [Miscellaneous](miscellaneous/README.md)
   * [Release Versioning](miscellaneous/release-versioning.md)
   * [Change Log](miscellaneous/change-log.md)
-
-## Legacy Ops-manuals
-
-* [Ops-manual V1](https://github.com/srobo/legacy-ops-manual/releases/download/v1/ops-manual-v1.pdf)
-* [Ops-manual V2](https://github.com/srobo/legacy-ops-manual/releases/download/v2/ops-manual-v2.pdf)
-
