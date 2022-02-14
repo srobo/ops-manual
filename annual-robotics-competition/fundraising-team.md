@@ -37,7 +37,7 @@ In addition to the [common responsibilities](common-responsibilities.md), the te
 
 The Fundraising Team is accountable to the Trustees. The Fundraising Team will make a report the Trustees at least once every month to report on progress and to highlight any areas of concern.
 
-Due to their commerially sensitive nature, minutes of meetings will not automatically be made available to the general public. Release of this information requires approval of the Trustees.
+Due to their commercially sensitive nature, minutes of meetings will not automatically be made available to the general public. Release of this information requires approval of the Trustees.
 
 ## Budget
 
