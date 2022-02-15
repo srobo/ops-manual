@@ -1,4 +1,4 @@
-# Safeguarding
+# Safeguarding and Child Protection
 
 ## Introduction
 
