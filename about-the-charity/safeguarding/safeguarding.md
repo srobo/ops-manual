@@ -91,7 +91,7 @@ Safeguarding training will cover situations that may arise such as:
 This occurs when a young person tells a volunteer something that is of concern.
 This is an unlikely situation, but it could happen. 
 
-Safeguarding training will cover the “do’s and dont’s” of dealing with discloures.
+Safeguarding training will cover the “do’s and don’ts” of dealing with disclosures.
 The key points are:
 * Allow them to speak without interruption
 * Don’t prompt or ask leading questions; listen carefully and ask for clarification if things are unclear

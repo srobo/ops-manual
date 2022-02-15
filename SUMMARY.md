@@ -9,7 +9,7 @@
     * [DBS](about-the-charity/safeguarding/dbs.md)
   * [Money Matters](about-the-charity/money-matters.md)
 * [Robotics Competition](annual-robotics-competition/README.md)
-  * [Common Responsibilites](annual-robotics-competition/common-responsibilities.md)
+  * [Common Responsibilities](annual-robotics-competition/common-responsibilities.md)
   * [Committee Membership](annual-robotics-competition/committee-membership.md)
   * [Competition Team](annual-robotics-competition/competition-team.md)
   * [Marketing Team](annual-robotics-competition/marketing-team.md)
