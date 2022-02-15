@@ -22,7 +22,7 @@ Volunteers apply through the Marketing Team Committee to join the team. The comm
 
 The Committee is a group of 3 people who are ultimately responsible for ensuring that the teams are sourced in the manner expected by the Trustees, coherent with the values of Student Robotics. The committee is accountable to the Trustees.
 
-The committee will focus on management of time, resources and volunteers within the team. The committee will provide support and guidance to team members to allow them to be as effective as possible in delivering the infrastructure services. The Trustees will provide support, guidance and training as necessary to allow the committee to be as effective as possible in managing the team.
+The committee will focus on management of time, resources and volunteers within the team. The committee will provide support and guidance to team members to allow them to be as effective as possible. The Trustees will provide support, guidance and training as necessary to allow the committee to be as effective as possible in managing the team.
 
 ## Roles and Responsibilities
 
@@ -30,6 +30,7 @@ In addition to the [common responsibilities](common-responsibilities.md), the ma
 
 * Website content
 * Social media
+* Promotional materials
 * Attracting teams
 * Maintaining on-going relationships with teams
 * Attracting volunteers
@@ -42,4 +43,4 @@ Minutes of meetings should be made available to the general public, although acc
 
 ## Budget
 
-A budget will be made available to aid finding teams and volunteers. The responsibility for this budget will be delegated to an individual committee member.
+A budget will be made available to aid finding teams and volunteers, and providing promotional materials. The responsibility for this budget will be delegated to an individual committee member.
