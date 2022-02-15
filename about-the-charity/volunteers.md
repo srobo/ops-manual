@@ -13,7 +13,7 @@ Each volunteer is required to abide by the  [code of conduct ](code-of-conduct.m
 
 # Members
 
-Volunteers may choose to become a "Member" of the charity. This has no impact on their ability to volunteer for Student Robotics, but creates an opportunity for them to have more of a say in the general running of the charity. The role of a member is defined in the [constitution](../resources/constitution.pdf). Members must be approved by the trustees.
+Volunteers may choose to become a "Member" of the charity. This has no impact on their ability to volunteer for Student Robotics, but creates an opportunity for them to have more of a say in the long term direction of the charity. The role of a member is defined in the [constitution](../resources/constitution.pdf). Members must be approved by the trustees.
 
 If a volunteer wishes to become a member of the charity, they should e-mail the trustees with the following details:
 
