@@ -1,0 +1,13 @@
+{
+  "name": "ops-manual",
+  "version": "1.0.0",
+  "repository": "https://github.com/srobo/ops-manual.git",
+  "author": "Student Robotics <info@studentrobotics.org>",
+  "private": true,
+  "scripts": {
+    "cspell": "cspell '**'"
+  },
+  "devDependencies": {
+    "cspell": "^5.18.4"
+  }
+}
