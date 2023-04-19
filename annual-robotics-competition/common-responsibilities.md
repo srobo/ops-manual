@@ -6,7 +6,7 @@ All teams have the following responsibilities:
 * Ensuring adequate communication with the other teams
 * Documenting their processes/tools
 * Raising any concerns to the trustees
-* Maintaining decision log from meetings
+* Maintaining minutes from meetings
 * Seeking guidance from the trustees
 * Reporting to the trustees on progress
 * Ensuring a clean handover with future committees
@@ -29,15 +29,8 @@ The team must maintain documentation on what it does and how it operates. This d
 ## Raising concerns to the Trustees
 The committee is responsible for ensuring that any concerns raised within their team are raised to the Trustees. If a concern can be handled within the team then a brief summary will suffice, anything that cannot be resolved within the team must be raised to the Trustees ASAP.
 
-## Maintaining a decision log
-All important decisions made by the team should be logged in a document, listing the following details:
-* Date
-* Decision
-* Reasoning
-* Who was present
-* Proportion of vote
-
-This document is stored in the organisation shared drive.
+## Maintaining minutes
+Teams should maintain minutes of their meetings—especially where decisions are taken—in a form accessible to volunteers in other teams.
 
 ## Seeking guidance from the Trustees
 The team committee is responsible for seeking guidance from the Trustees as to the direction they should take for the coming year.
