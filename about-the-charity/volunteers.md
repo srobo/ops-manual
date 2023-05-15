@@ -9,7 +9,7 @@ The register of volunteers is maintained, by the Trustees, on the Google GSuite 
 * Mobile Phone Number
 * Geographical Location \(i.e. City/Town\)
 
-Each volunteer is required to abide by the  [code of conduct ](code-of-conduct.md) and to observe  [safe guarding policy](safeguarding.md). 
+Each volunteer is required to abide by the  [code of conduct ](code-of-conduct.md) and to observe the  [safe guarding policy](safeguarding.md). 
 
 # Members
 
