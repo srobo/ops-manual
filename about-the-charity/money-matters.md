@@ -1,8 +1,8 @@
 # Money Matters
 
-A crucial aspect of running a charity is good money management. The Trustees are ultimately responsible for fund raising and deciding how the charity spends its money. The financial year starts on 1 August and the Trustees draw up an annual budget to allow the charity to fulfil its charitable purpose(s). One of the Trustees acts in the role of treasurer to the charity and maintains the definitive financial records which are submitted to external accountants at year end to prepare the statement for the annual report.
+A crucial aspect of running a charity is good money management. The Trustees are ultimately responsible for fund raising and deciding how the charity spends its money. The financial year starts on 1 August and the Trustees draw up an annual budget to allow the charity to fulfil its charitable purpose(s). One of the Trustees acts in the role of treasurer to the charity and maintains the definitive financial records which are submitted to the Charity Commission along with the annual report. 
 
-The task of detailed budgeting for each team's activities is delegated to their committees. The Trustees impart a great degree of financial freedom to committees  and, in exchange, the committees take responsibility for ensuring that money is well managed. Each committee must have a named person to act in the role of team treasurer.  To help minimise risk for everyone involved, certain requirements are placed upon the committees, related to money, and these are detailed below. 
+The task of detailed budgeting for each team's activities is delegated to their committees. The Trustees impart a great degree of financial freedom to committees and, in exchange, the committees take responsibility for ensuring that money is well managed. Each committee must have a named person to act in the role of team treasurer.  To help minimise risk for everyone involved, certain requirements are placed upon the committees, related to money, and these are detailed below. 
 
 ## Budgeting Requirements - Committees
 
