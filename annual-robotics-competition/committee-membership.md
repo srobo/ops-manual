@@ -1,12 +1,12 @@
 # Committee Membership
 
-Events teams and Services teams operate slightly differently in terms of the terms of office and committee operation.
+Each team of Student Robotics is led by a Committee which is appointed by the Trustees.  
 
-## Events teams
+### Committee cycle
 
-### Formation and Dissolution
+The **competition team** and its committee operates on an 11-month cycle running from early July to early June the following year. The one month gap provides a much-needed break for members of the team. This gap also provides a definitive start of a new cycle and creates an opportunity for new volunteers to get involved starting afresh with the rest of the team.
 
-Events teams (and their respective committees) operate on a 11-month cycle running from early July to early June the following year. The one month gap provides a much-needed break for members of the team. This gap also provides a definitive start of a new cycle and creates an opportunity for new volunteers to get involved starting afresh with the rest of the team.
+All other teams xxxxx
 
 ### Registration of Interest
 
