@@ -1,4 +1,6 @@
-# Committee membership eligibility
+# Committee formation, dissolution and membership
+
+### Eligibility
 
 All registered SR volunteers who have participated in at least one full (11-month) competition cycle, including volunteering at the main competition event, are invited to express an interest in a place on a committee. Committee members are selected from applicants who have relevant skills and xxxx. Preference is gven to  volunteers who have actively particpated in the work of the relevant team. 
 
