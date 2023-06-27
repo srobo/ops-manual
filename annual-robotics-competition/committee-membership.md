@@ -1,22 +1,22 @@
-# Committee Membership
+# Committee membership eligibility
 
-Each team of Student Robotics is led by a Committee which is appointed by the Trustees.  
+All registered SR volunteers who have participated in at least one full (11-month) competition cycle, including volunteering at the main competition event, are invited to express an interest in a place on a committee. Committee members will be selected from applicants who have the relevant skills and xxxxx will be slected Preference will be given to volunteers who have actively particpated in the work of the relevant team. 
 
-### Committee cycle
+### Competition team committee
 
-The **competition team** and its committee operates on an 11-month cycle running from early July to early June the following year. The one month gap provides a much-needed break for members of the team. This gap also provides a definitive start of a new cycle and creates an opportunity for new volunteers to get involved starting afresh with the rest of the team.
+The competition team and its committee operates on an 11-month cycle running from early July to early June the following year. The one month gap provides a much-needed break for members of the team. This gap also provides a definitive start of a new cycle and creates an opportunity for new volunteers to get involved starting afresh with the rest of the team.
 
-All other teams xxxxx
+#### Registration of Interest
 
-### Registration of Interest
+Approximately three weeks before the new team is to be formed, eligible volunteers (including previous members of the committee) are invited to express an interest in being part of the next committee.  
 
-Approximately three weeks before the new team is to be formed, all registered SR volunteers are invited to express an interest in being part of the next committee or team. Previous members of the committee and/or team are welcome to register interest. 
+#### Supporting information
+
+The Trustees discuss their expectations for the coming year (based on feedback from the previous year’s cycle) and decide on the direction in which they would like the competition to be taken and where they would like the new committee to focus their efforts. For example, it may be the case that the Trustees would like to expand the number of school teams, or they may want the committee to focus on increasing volunteer engagement. This information is communicated to applicants who may be invited to provide addtional information in support of their application.
 
 ### Formation
 
-The committee is formed at a meeting with the Trustees. If more than 3 volunteers register an interest in being on the committee they will all be invited to the formation meeting, however only 3 of them will be allowed to become committee members. If more than 10 volunteers register an interest in being on the committee then the Trustees select a short-list of 10 volunteers to invite to the formation meeting, based on the skills and experience they could bring to the committee. Any volunteers who register an interest in being on the committee but are not selected are contacted if vacancies appear on the committee during the 11-month period.
-
-At the meeting, the Trustees discuss their expectations for the approaching year (based on feedback from the previous year’s cycle) and clarify any concerns about roles and responsibilities. Each year, the Trustees provide guidance as to the direction in which they would like the approaching year to be taken and where they would like the committee to focus their efforts. For example, it may be the case that the Trustees would like to expand the number of school teams, or they may want the committee to focus on increasing volunteer engagement. After discussing these points, and answering any questions, the Trustees leave the meeting, allowing a short time for discussion. On return, they ask for a show of hands of people who would like to join the committee. If more than 3 people indicate a desire to join the committee at this stage, the Trustees select the 3 people that they feel are most able to take on the responsibilities of the committee.
+The committee is formed, following a meeting of the Trustees. The Trustees select three volunteers that they feel are most able to take on the responsibilities of the committee. 
 
 ### The First Few Weeks
 
