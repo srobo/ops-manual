@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The Competition Team is an Events team responsible for defining and delivering the SR Competition Programme ('the competition programme') for a single competition cycle (11 months).
+The Competition Team is responsible for defining and delivering the SR Competition Programme ('the competition programme') for a single competition cycle (11 months).
 
 The SR Competition Programme includes, but is not limited to:
 
