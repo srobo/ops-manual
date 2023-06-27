@@ -1,6 +1,6 @@
 # Committee membership eligibility
 
-All registered SR volunteers who have participated in at least one full (11-month) competition cycle, including volunteering at the main competition event, are invited to express an interest in a place on a committee. Committee members will be selected from applicants who have the relevant skills and xxxxx will be slected Preference will be given to volunteers who have actively particpated in the work of the relevant team. 
+All registered SR volunteers who have participated in at least one full (11-month) competition cycle, including volunteering at the main competition event, are invited to express an interest in a place on a committee. Committee members are selected from applicants who have relevant skills and xxxx. Preference is gven to  volunteers who have actively particpated in the work of the relevant team. 
 
 ### Competition team committee
 
@@ -12,11 +12,11 @@ Approximately three weeks before the new team is to be formed, eligible voluntee
 
 #### Supporting information
 
-The Trustees discuss their expectations for the coming year (based on feedback from the previous year’s cycle) and decide on the direction in which they would like the competition to be taken and where they would like the new committee to focus their efforts. For example, it may be the case that the Trustees would like to expand the number of school teams, or they may want the committee to focus on increasing volunteer engagement. This information is communicated to applicants who may be invited to provide addtional information in support of their application.
+The Trustees discuss their expectations for the coming year (based on feedback from the previous year’s cycle) and decide on the direction in which they would like the competition to be taken and where they would like the new committee to focus their efforts. For example, it may be the case that the Trustees would like to expand the number of school teams, or they may want the committee to focus on increasing volunteer engagement. This information is communicated to applicants who will be invited to provide additional information in support of their application.
 
 ### Formation
 
-The committee is formed, following a meeting of the Trustees. The Trustees select three volunteers that they feel are most able to take on the responsibilities of the committee. 
+The committee is formed, following a meeting of the Trustees. Prior to this, meetings with individual applicants may be held.  The Trustees select three volunteers that they feel are most able to take on the responsibilities of the committee. 
 
 ### The First Few Weeks
 
@@ -26,9 +26,11 @@ After the formation meeting has concluded, the newly formed committee fulfil the
 
 At the end of the term of office, the committee is invited to meet with the Trustees to review the progress made. This serves as a useful event for both the committee, to reflect on their achievements, and the Trustees, to gather as much information as possible to feed into future competitions. It is expected that the committee will get the views of the wider team before the meeting. After the review meeting, the team and its committee is effectively disbanded.
 
-## Services teams
+## All other team committees
 
-### Joining the committee
+### Committee cycles
+
+All of the other committees will operate on a 23-month cycle running from early July in year one to early June in year three. This will allow a longer time period to 
 
 Volunteers join the committee by application to the Trustees. The committee will operate on a continuous/rolling timeline. Each member has a maximum term of two years, after which they are automatically retired from the committee. Before the conclusion of the two year term the member may apply to the Trustees to extend their term for a further two years, without a gap in membership.
 
