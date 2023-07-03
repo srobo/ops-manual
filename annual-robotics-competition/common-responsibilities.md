@@ -1,21 +1,21 @@
 # Common Responsibilities
 
 All teams have the following responsibilities:
-* Supporting the recruitment of volunteers for across the organisation
+* Holding meetings and ensuring that 
+* maintaining a log of decsions made
+* Reporting to the trustees on progress
+* Supporting the recruitment of volunteers
 * Budgeting
 * Ensuring adequate communication with the other teams
 * Documenting their processes/tools
-* Raising any concerns to the trustees
-* Maintaining decision log from meetings
-* Seeking guidance from the trustees
-* Reporting to the trustees on progress
+* Raising any concerns and seeking guidance from the trustees* 
 * Ensuring a clean handover with future committees
 
 ## Recruiting volunteers
 SR wouldn't exist without its volunteers. All teams should take an active role in supporting the search for and induction of new volunteers.
 
 ## Budgeting
-The team committee is responsible for drawing up a budget for the following year within the overall budget provided by the Trustees. They must submit the budget to the Trustees within two months of the formation of the committee. This budget does not need to be extremely detailed; 8-10 budget lines is expected. They must also do the following:
+The team committee is responsible for drawing up a budget for the following year within the overall budgetary framework provided by the Trustees. They must submit a budget to the Trustees within two months of the formation of the committee. This budget does not need to be extremely detailed; 8-10 budget lines is expected. They must also do the following:
 * Keep financial records (in a form to be agreed with the trustees).
 * Submit final accounts (at the end of the competition cycle).
 * Understand and follow the requirements defined in the Money Matters section (this defines how budgeting works in more detail).
