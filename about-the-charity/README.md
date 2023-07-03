@@ -1,6 +1,6 @@
 # About the Charity
 
-Student Robotics is a charity, registered on 18th August 2015 in England and Wales, with registration number 1163168. The charity is an association charitable incorporated organisation \(CIO\), with a [constitution](https://github.com/srobo/ops-manual/tree/d76377192d4c94c4bd4298f0f3954f5d342af24b/resources/constitution.pdf) as its governing document. It is headed by the Trustees who share ultimate responsibility for governing the charity and directing how it is managed and run. The Trustees can always be contacted via email at the following address: [trustees@studentrobotics.org](mailto:trustees@studentrobotics.org).
+Student Robotics is a charity, registered on 18th August 2015 in England and Wales, with registration number 1163168. The charity is an association charitable incorporated organisation \(CIO\), with a [constitution](https://github.com/srobo/ops-manual/tree/d76377192d4c94c4bd4298f0f3954f5d342af24b/resources/constitution.pdf) as its governing document. 
 
 ## Postal Address
 
