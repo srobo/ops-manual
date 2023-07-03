@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The Infrastructure Team is a Services team responsible for providing and maintaining the computing infrastructure required for the other teams to operate.
+The Infrastructure Team is responsible for providing and maintaining the computing infrastructure required for the other teams to operate.
 
 This includes, but is not limited to:
 
