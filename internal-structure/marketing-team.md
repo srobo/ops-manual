@@ -2,19 +2,15 @@
 
 ## Purpose
 
-The marketing team are responsible for attracting new sponsors, competitor teams and volunteers. 
-
-The work of the team will include:
+The marketing team are responsible for attracting new sponsors, competitor teams and volunteers. This includes, but is not limited to:
 
 * managing website content
 * making effective use of social media channels 
 * producing and procuring marketing materials
-* SR brand assets
-
+* maintaining SR brand assets
+* writing the annual report
   
 ## Structure and Operation
-
-The Marketing Team is a group of volunteers who work together, and closely with other teams within SR, to attract sponsors, competitors and volunteers. The team is lead by a committee that is responsible for fulfilling the aims of the team.
 
 The team (and its committee) operates on a 24-month cycle (see [Formation and Dissolution](committee-membership.md)).
 
@@ -22,9 +18,9 @@ Volunteers apply through the Marketing Team Committee to join the team. The comm
 
 ## The Committee
 
-The Committee is a group of three people who are ultimately responsible for ensuring that the work of the team is carried out in the manner expected by the Trustees, coherent with the values of Student Robotics. The committee is accountable to the Trustees.
+The Committee is a group of three people who are ultimately responsible for ensuring that the work of the team is carried out in the manner expected by the Trustees, coherent with the values of Student Robotics. 
 
-The committee will focus on management of time, resources and volunteers within the team. The committee will provide support and guidance to team members to allow them to be as effective as possible in delivering the infrastructure services. The Trustees will provide support, guidance and training as necessary to allow the committee to be as effective as possible in managing the team.
+The committee will focus on management of time, resources and volunteers within the team. The committee will provide support and guidance to team members to allow them to be as effective as possible in delivering the infrastructure services. 
 
 ## Roles and Responsibilities
 
