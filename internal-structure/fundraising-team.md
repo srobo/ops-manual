@@ -20,7 +20,9 @@ Volunteers apply through the Fundraising Team Committee to join the team. The co
 
 ## The Committee
 
-THe committee is made up of three volunteers. One of the Trustees will also attend team meetings to make sure that the financial and legal obligations of the Trustees are upheld. 
+The Committee is a group of three people who are ultimately responsible for ensuring that the work of the team is delivered to the standard expected by the Trustees, coherent with the values of Student Robotics. The committee is accountable to the Trustees and at least one of the Trustees will attend team meetings to make sure that the financial and legal obligations of the Trustees are upheld. 
+
+The committee will focus on management of time, resources and volunteers within the team. The committee will provide support and guidance to team members to allow them to be as effective as possible in attracting and managing sponsorship deals. The Trustees will provide support, guidance and training as necessary to allow the committee to be as effective as possible in managing the team.
 
 ## Roles and Responsibilities
 
@@ -34,7 +36,7 @@ In addition to the [common responsibilities](common-responsibilities.md), the co
 
 ## Accountability
 
-The Fundraising Team is accountable to the Trustees. The Fundraising Team will make a report the Trustees at least once every month to report on progress and to highlight any areas of concern.
+The Fundraising and Sponsorship Team is accountable to the Trustees. The Fundraising Team will report the Trustees at least once every month to update them on progress and to highlight any areas of concern.
 
 Due to their commercially sensitive nature, minutes of meetings will not automatically be made available to the general public. Release of this information requires approval of the Trustees.
 
