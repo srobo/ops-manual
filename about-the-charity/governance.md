@@ -1,4 +1,6 @@
-## Meet the Trustees
+## Trustees
+
+The Trustees share ultimate responsibility for governing the charity and directing how it is managed and run. The Trustees can always be contacted via email at the following address: [trustees@studentrobotics.org](mailto:trustees@studentrobotics.org). The current trustees are:
 
 ### David Massey
 
@@ -11,3 +13,6 @@ Diane works for the Raspberry Pi Foundation. She was previously Head of Computer
 ### Thomas Scarsbrook
 
 Thomas, more commonly known as "Scarzy", is an electronics consultant based in Surrey. He started volunteering for Student Robotics when he joined Southampton Uni in 2009, and became a trustee in November 2020.
+
+
+## Members
