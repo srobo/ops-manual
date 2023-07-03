@@ -8,7 +8,7 @@ All committees have the following responsibilities:
 * Budgeting
 * Ensuring adequate communication with the other teams
 * Documenting their processes/tools
-* Raising any concerns and seeking guidance from the trustees* 
+* Raising any concerns and seeking guidance from the trustees
 * Ensuring a clean handover with future committees
 
 ## Holding meetings
