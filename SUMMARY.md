@@ -15,7 +15,7 @@
   * [Competition Team](internal-structure/competition-team.md)
   * [Marketing Team](internal-structure/marketing-team.md)
   * [Kit Team](internal-structure/kit-team.md)
-  * [Infrastructure Team]internal-structure/infrastructure-team.md)
+  * [Infrastructure Team](internal-structure/infrastructure-team.md)
   * [Fundraising Team](internal-structure/fundraising-team.md)
   * [Volunteer onboarding Team](internal-structure/onboarding-team.md)
 * [Miscellaneous](miscellaneous/README.md)
