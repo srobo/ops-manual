@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The Kit Team is a Services team tasked with developing and maintaining the SR Kit, and to provide a Kit Service to enable the SR Competition Programme.
+The Kit Team is tasked with developing and maintaining the SR Kit, and to provide a Kit Service to enable the SR Competition Programme.
 
 The Kit is defined as the hardware and software (including software services) that are provided to school teams to enable them to take part in the annual robotics competition.
 
@@ -32,7 +32,7 @@ Volunteers apply through the Kit Team Committee to join the team. The committee 
 
 ## The Kit Team Committee
 
-The Kit Team Committee is a group of 3 people who develop and clearly communicate a strategic vision, coherent with the values of Student Robotics, for the Kit. The committee ensures that resources are always used in the best interests of the charity and is accountable to the Trustees, The committee delegates responsibilities and resources to the rest of the team.
+The Kit Team Committee is a group of three people who develop and clearly communicate a strategic vision, coherent with the values of Student Robotics, for the Kit. The committee ensures that resources are always used in the best interests of the charity and is accountable to the Trustees, The committee delegates responsibilities and resources to the rest of the team.
 
 ## Roles and Responsibilities
 
@@ -62,4 +62,3 @@ A budget will be made available to allow the kit to be stored safely and maintai
 Specific budgeting for development projects will be managed on a case by case basis, applying for budget from the Trustees in each of these cases. 
 
 A "Development Pot" line should be requested, and will be made available to cover low-cost resources used in the development process.
-
