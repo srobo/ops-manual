@@ -2,14 +2,16 @@
 
 ## Purpose
 
-The marketing team are responsible for attracting new sponsors, teams and volunteers. They will be looking at attracting teams for both the current and, in later months, the following competition cycle.
+The marketing team are responsible for attracting new sponsors, competitor teams and volunteers. 
 
-They are responsible for:
+The work of the team will include:
 
 * managing website content
-* effective use of social media channels 
-* attracting new competitors, sponsors and volunteers
+* making effective use of social media channels 
+* producing and procuring marketing materials
+* SR brand assets
 
+  
 ## Structure and Operation
 
 The Marketing Team is a group of volunteers who work together, and closely with other teams within SR, to attract sponsors, competitors and volunteers. The team is lead by a committee that is responsible for fulfilling the aims of the team.
@@ -28,13 +30,7 @@ The committee will focus on management of time, resources and volunteers within 
 
 In addition to the [common responsibilities](common-responsibilities.md), the marketing team has the following responsibilities:
 
-* Website content
-* Use of social media channels
-* Producing and procuring marketing materials
-* Attracting new competitors
-* Attracting new volunteers
-* Attracting new sponsors
-* Maintaining on-going relationships with teams ????????
+
 
 ## Accountability
 
