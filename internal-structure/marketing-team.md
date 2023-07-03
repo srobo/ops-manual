@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The marketing team are responsible for attracting new sponsors, competitor teams and volunteers. This includes, but is not limited to:
+The marketing team are responsible for attracting new sponsors, competitor teams and volunteers. Their work includes, but is not limited to:
 
 * managing website content
 * making effective use of social media channels 
@@ -18,22 +18,18 @@ Volunteers apply through the Marketing Team Committee to join the team. The comm
 
 ## The Committee
 
-The Committee is a group of three people who are ultimately responsible for ensuring that the work of the team is carried out in the manner expected by the Trustees, coherent with the values of Student Robotics. 
+The committee is a group of three people who are ultimately responsible for ensuring that the work of the team is carried out in the manner expected by the Trustees, coherent with the values of Student Robotics. 
 
 The committee will focus on management of time, resources and volunteers within the team. The committee will provide support and guidance to team members to allow them to be as effective as possible in delivering the infrastructure services. 
 
 ## Roles and Responsibilities
 
-In addition to the [common responsibilities](common-responsibilities.md), the marketing team has the following responsibilities:
-
-
+The committee's responsibilities are defined in the list of [common responsibilities](common-responsibilities.md). One named member of the committee must act as the team treasurer.
 
 ## Accountability
 
-The Marketing Team is accountable to the Trustees. The committee member responsible for reporting to the Trustees will speak in person with the Trustees at least once every month to report on progress and to highlight any areas of concern.
+The committee is accountable to the Trustees. 
 
-Minutes of meetings should be made available to the general public, although access to any sensitive commercial data may be restricted to the Trustees.
+## Budget and financial records
 
-## Budget
-
-A budget will be made available to support the work of the team. The responsibility for this budget will be delegated to an individual committee member.
+A budget will be made available to support the work of the team. The responsibility for this budget will be delegated to the team treasurer who will be able to approve spending within this budget. The treasureer must ensure that all expenditure is authorised in advance of being incurred and that appropriate records are kept. 
