@@ -16,11 +16,11 @@ Approximately three weeks before the new committee is to be formed, eligible vol
 
 #### Supporting information
 
-The Trustees discuss their expectations for the coming cycle (based on feedback from the previous cycle) and decide on the direction in which they would like the work of the teams to be taken and where they would like the new committee to focus their efforts. For example, it may be the case that the Trustees would like to increae the number of kits available, expand the number of female participants, or they may want a focus on increasing volunteer engagement. This information is communicated to applicants who will be invited to provide additional information in support of their application.
+The Trustees discuss their expectations for the coming cycle (based on feedback from the previous cycle) and decide on the direction in which they would like the work of the teams to be taken and where they would like the new committee to focus their efforts. For example, it may be the case that the Trustees would like to increase the number of kits available, expand the number of female participants, or they may want a focus on increasing volunteer engagement. This information is communicated to applicants who will be invited to provide additional information in support of their application.
 
 ### Formation
 
-Each committee is formed, following a meeting of the Trustees. Prior to this, applications from all eligible applicants are carefully considered and meetings with individual applicants may be held.  The Trustees select three volunteers that they feel are most able to take on the responsibilities of each committee. 
+Each committee is formed, following a meeting of the Trustees. Prior to this, applications from all eligible applicants are carefully considered and meetings with individual applicants may be held.  The Trustees select a set of volunteers that they feel are most able to take on the responsibilities of the committee and will work well together.  
 
 ### Dissolution
 
@@ -28,8 +28,8 @@ At the end of the term of office, each committee is invited to meet with the Tru
 
 ### Insufficient applications
 
-The ideal size of a committee is three members. This allows a spread of responsibiliteies and for effective debate. If there are insufficient suitable applicants, the Trustees appoint a smaller commitee and work with that commitee to find suitable candidates for the unfilled position(s).  
+The ideal size of a committee is three members. This allows a spread of responsibilities and for effective debate. If there are insufficient suitable applicants, the Trustees appoint a smaller commitee and work with that commitee to find suitable candidates for the unfilled position(s).  
 
-### Resignation of a Committee Member
+### Resignation of a committee Member
 
-If a committee member wishes to resign part-way through their term of office they email the Trustees. The Trustees work with the individual to see if there is any further help and support that they can provide to allow the volunteer  to continue in their role. If there is no option for the individual to continue, the Trustees work with the rest of the committee to find a volunteer to become a replacement committee member. 
+If a committee member wishes to resign part-way through their term of office they email the Trustees. The Trustees work with the individual to see if there is any further help and support that they can provide to allow the volunteer to continue in their role. If there is no option for the individual to continue, the Trustees work with the rest of the committee to find a suitable candidate for the role. 
