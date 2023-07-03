@@ -2,21 +2,22 @@
 
 ## Purpose
 
-The volunteer onboarding team are responsible for attracting new sponsors, teams and volunteers. They will be looking at attracting teams for both the current and, in later months, the following competition cycle.
+The volunteer onboarding team are responsible for looking after new volunteers in their first 12 months of volunteering with SR.  
 
 They are responsible for:
 
-* managing website content
-* effective use of social media channels 
-* attracting new competitors, sponsors and volunteers
+* responding to anyone who expresses an interest in volunteering with SR
+* ensuring that new volunteers are appropriately inducted
+* checking in with new volunteers on a regular basis
+* devising and documenting an induction programme for new volunteers
 
 ## Structure and Operation
 
-The Marketing Team is a group of volunteers who work together, and closely with other teams within SR, to attract sponsors, competitors and volunteers. The team is lead by a committee that is responsible for fulfilling the aims of the team.
+The volunteer onboarding team is a group of volunteers who work together, and closely with other teams within SR, to support new volunteers. The team is lead by a committee that is responsible for fulfilling the aims of the team.
 
 The team (and its committee) operates on a 24-month cycle (see [Formation and Dissolution](committee-membership.md)).
 
-Volunteers apply through the Marketing Team Committee to join the team. The committee will ensure the team has an appropriate balance of relevant skills. Volunteers will be encouraged to apply at the start of each competition cycle but can apply at any time. The committee should not unreasonably restrict membership of the team.
+Volunteers apply through the committee to join the team. The committee will ensure the team has an appropriate balance of relevant skills. Volunteers will be encouraged to apply at the start of each competition cycle but can apply at any time. The committee should not unreasonably restrict membership of the team.
 
 ## The Committee
 
@@ -28,17 +29,14 @@ The committee will focus on management of time, resources and volunteers within 
 
 In addition to the [common responsibilities](common-responsibilities.md), the marketing team has the following responsibilities:
 
-* Website content
-* Use of social media channels
-* Producing and procuring marketing materials
-* Attracting new competitors
-* Attracting new volunteers
-* Attracting new sponsors
-* Maintaining on-going relationships with teams ????????
+* responding to anyone who expresses an interest in volunteering with SR
+* ensuring that new volunteers are appropriately inducted
+* checking in with new volunteers on a regular basis
+* devising and documenting an induction programme for new volunteers
 
 ## Accountability
 
-The Marketing Team is accountable to the Trustees. The committee member responsible for reporting to the Trustees will speak in person with the Trustees at least once every month to report on progress and to highlight any areas of concern.
+The volunteer onboarding team is accountable to the Trustees. The committee member responsible for reporting to the Trustees will speak in person with the Trustees at least once every month to report on progress and to highlight any areas of concern.
 
 Minutes of meetings should be made available to the general public, although access to any sensitive commercial data may be restricted to the Trustees.
 
