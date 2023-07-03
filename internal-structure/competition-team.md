@@ -34,7 +34,7 @@ The committee will focus on management of time, resources and volunteers within 
 
 ## Roles and Responsibilities
 
-In addition to the [common responsibilities](common-responsibilities.md), the competition team has the following responsibilities:
+In addition to the [common responsibilities](common-responsibilities.md), the Competition Team Committee has the following responsibilities:
 
 ### Collective Responsibilities
 
