@@ -8,13 +8,13 @@ All registered SR volunteers who have participated in at least one full (11-mont
 
 The **competition team** and its committee operates on an 11-month cycle running from early July to early June the following year. The one month gap provides a much-needed break for members of the team. This gap also provides a definitive start of a new cycle and creates an opportunity for new volunteers to get involved starting afresh with the rest of the team.
 
-All of the **other committees** operate on a 23-month cycle running from early July in year one to early June in year three. 
+All **other committees** operate on a 23-month cycle running from early July in year one to early June in year three. 
 
-#### Registration of Interest
+### Registration of Interest
 
 Approximately three weeks before the new committee is to be formed, eligible volunteers (including previous members of the committee) are invited to express an interest in being part of the next committee.  
 
-#### Supporting information
+### Supporting information
 
 The Trustees discuss their expectations for the coming cycle (based on feedback from the previous cycle) and decide on the direction in which they would like the work of the teams to be taken and where they would like the new committee to focus their efforts. For example, it may be the case that the Trustees would like to increase the number of kits available, expand the number of female participants, or they may want a focus on increasing volunteer engagement. This information is communicated to applicants who will be invited to provide additional information in support of their application.
 
@@ -30,6 +30,6 @@ At the end of the term of office, each committee is invited to meet with the Tru
 
 The ideal size of a committee is three members. This allows a spread of responsibilities and for effective debate. If there are insufficient suitable applicants, the Trustees appoint a smaller commitee and work with that commitee to find suitable candidates for the unfilled position(s).  
 
-### Resignation of a committee Member
+### Resignation of a committee member
 
 If a committee member wishes to resign part-way through their term of office they email the Trustees. The Trustees work with the individual to see if there is any further help and support that they can provide to allow the volunteer to continue in their role. If there is no option for the individual to continue, the Trustees work with the rest of the committee to find a suitable candidate for the role. 
