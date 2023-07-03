@@ -6,7 +6,7 @@ All committees have the following responsibilities:
 * Reporting on progress to the trustees
 * Budgeting
 * Supporting the recruitment and induction of volunteers
-* Managing good relationships
+* Managing relationships within the team
 * Raising any concerns with the Trustees
 * Inter-team communication
 * Documenting processes/tools
