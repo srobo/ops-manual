@@ -28,7 +28,7 @@ Volunteers apply through the Competition Team Committee to join the team. The co
 
 ## The Competition Team Committee
 
-The Committee is a group of 3 people who are ultimately responsible for ensuring that the competition programme is delivered to the standard expected by the Trustees, coherent with the values of Student Robotics. The committee is accountable to the Trustees.
+The committee is a group of three people who are ultimately responsible for ensuring that the competition programme is delivered to the standard expected by the Trustees, coherent with the values of Student Robotics. The committee is accountable to the Trustees.
 
 The committee will focus on management of time, resources and volunteers within the team. Delivering a competition is a huge undertaking and can require a significant investment of time and effort from volunteers and this workload must be carefully managed. The committee will provide support and guidance to team members to allow them to be as effective as possible in delivering the competition. The Trustees will provide support, guidance and training as necessary to allow the committee to be as effective as possible in managing the team.
 
