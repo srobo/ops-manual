@@ -11,6 +11,12 @@ All committees have the following responsibilities:
 * Inter-team communication
 * Documenting processes/tools
 * Ensuring a clean handover to a new committee
+* Maintaining a record of team members, with their abilities and desired workload.
+* The management, tracking and distribution of assets within the team.
+* The management of the workload of members of the team.
+* Ensuring projects are open source, open to contribution from external parties, and inviting to work on by volunteers.
+* Assigning and managing projects/maintenance to team members, this may be assigned to self organising subgroups of individuals.
+* Maintain documentation of processes and anything else that they feel relevant relating to their responsibilities to help both current and future volunteers This documentation should be licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Holding meetings
 Each team should have regular meetings and the date and time of upcoming meetings must be added to the organisation calendar. 
