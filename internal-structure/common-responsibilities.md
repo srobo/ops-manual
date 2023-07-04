@@ -41,14 +41,14 @@ All teams should take an active role in supporting the search for new volunteers
 ## Managing relationships
 It is important that all volunteers have a positive experience of volunteering with Student Robotics. Committees should work hard to build relationships and to try to tackle any issues that may arise within the team. 
 
-## Raisng concenrns with the Trustees
+## Raising concerns with the Trustees
 The committee is responsible for ensuring that any concerns raised within their team are raised to the Trustees. If a concern can be handled within the team then a brief summary will suffice, anything that cannot be resolved within the team must be raised to the Trustees ASAP.
 
 ## Inter-team communication
 The committee is responsible for ensuring they communicate adequately with the other teams. Many teams will be reliant on the other teams for information to allow them to work effectively. 
 
 ## Documenting processes/tools
-The committee must ensure tha the team maintains documentation on what it does and how it operates. This documentation must be available to all in SR.
+The committee must ensure that the team maintains documentation on what it does and how it operates. This documentation must be available to all in SR.
 
 ## Handover
 The committee is responsible for ensuring a clean handover to a new committee at the end of their term of office. 
