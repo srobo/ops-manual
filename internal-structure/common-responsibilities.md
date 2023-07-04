@@ -3,20 +3,16 @@
 All committees have the following responsibilities:
 * Organising and running team meetings
 * Maintaining a log of decisions made
+* Inter-team communications
 * Reporting on progress to the trustees
 * Preparing and managing a budget for team expenditure
-* Supporting the recruitment and induction of volunteers
 * Managing relationships within the team
-* Raising any concerns with the Trustees
-* Inter-team communication
+* Ensuring projects are run in line with the values of SR
 * Documenting processes/tools
+* The management, tracking and distribution of assets
+* Supporting the recruitment and induction of volunteers
+* Raising any concerns with the trustees
 * Ensuring a clean handover to a new committee
-* Maintaining a record of team members, with their abilities and desired workload.
-* The management, tracking and distribution of assets within the team.
-* The management of the workload of members of the team.
-* Ensuring projects are open source, open to contribution from external parties, and inviting to work on by volunteers.
-* Assigning and managing projects/maintenance to team members, this may be assigned to self organising subgroups of individuals.
-* Maintain documentation of processes and anything else that they feel relevant relating to their responsibilities to help both current and future volunteers This documentation should be licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Holding meetings
 Each team should have regular meetings and the date and time of upcoming meetings must be added to the organisation calendar. 
@@ -39,7 +35,8 @@ The committee is responsible for drawing up a budget for the following year with
 All teams should take an active role in supporting the search for new volunteers and helping with their induction. Committees should make sure that volunteers who express and interest in joing their teams are made welcome and understand how to get invoved with the work of the team.
 
 ## Managing relationships
-It is important that all volunteers have a positive experience of volunteering with Student Robotics. Committees should work hard to build relationships and to try to tackle any issues that may arise within the team. 
+It is important that all volunteers have a positive experience of volunteering with Student Robotics. Committees should work hard to build relationships and to try to tackle any issues that may arise within the team. * Maintaining a record of team members, with their abilities and desired workload. * The management of the workload of members of the team. 
+* Assigning and managing projects/maintenance to team members, this may be assigned to self organising subgroups of individuals.
 
 ## Raising concerns with the Trustees
 The committee is responsible for ensuring that any concerns raised within their team are raised to the Trustees. If a concern can be handled within the team then a brief summary will suffice, anything that cannot be resolved within the team must be raised to the Trustees ASAP.
@@ -48,7 +45,7 @@ The committee is responsible for ensuring that any concerns raised within their 
 The committee is responsible for ensuring they communicate adequately with the other teams. Many teams will be reliant on the other teams for information to allow them to work effectively. 
 
 ## Documenting processes/tools
-The committee must ensure that the team maintains documentation on what it does and how it operates. This documentation must be available to all in SR.
+The committee must ensure that the team maintains documentation on what it does and how it operates. This documentation must be available to all in SR. Maintain documentation of processes and anything else that they feel relevant relating to their responsibilities to help both current and future volunteers This documentation should be licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Handover
 The committee is responsible for ensuring a clean handover to a new committee at the end of their term of office. 
