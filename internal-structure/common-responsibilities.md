@@ -2,7 +2,7 @@
 
 All committees have the following responsibilities:
 * Organising and running team meetings
-* Maintaining a log of decsions made
+* Maintaining a log of decisions made
 * Reporting on progress to the trustees
 * Budgeting
 * Supporting the recruitment and induction of volunteers
