@@ -36,7 +36,7 @@ The Kit Team Committee is a group of three people who develop and clearly commun
 
 ## Roles and Responsibilities
 
-In addition to the [common responsibilities](./common-responsibilities.md), the kit team has the following responsibilities:
+In addition to the [common responsibilities](./common-responsibilities.md), the kit team committee has the following responsibilities:
 
 ### Collective responsibilities
 
