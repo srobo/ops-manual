@@ -63,6 +63,8 @@ After filing a report, a Trustee will contact you personally, review the inciden
 
 ### 7. Addressing grievances
 
+If a complaint has been raised against you, the Trustees will notify you regarding the nature of the concern, and arrange a meeting to discuss what has been raised and possible routes forward. Confidentiality of the complainant(s) will be respected.
+
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify the Trustees with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
 
 ### 8. Scope
