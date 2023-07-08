@@ -29,5 +29,5 @@ If a volunteer wishes to become a member of the charity, they should e-mail the 
 * Email \(alternative email to that issued by SR\)
 * Home address
 
-The register of members is available for inspection by pplication to the trustees. 
+The register of members is available for inspection by application to the trustees. 
 
