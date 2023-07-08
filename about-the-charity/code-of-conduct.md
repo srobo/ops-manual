@@ -10,7 +10,7 @@ This code of conduct outlines our expectations for all those who participate in 
 
 We invite all those who participate in Student Robotics to help us create safe and positive experiences for everyone.
 
-### 2. Open Source Citizenship
+### 2. Open source citizenship
 
 A supplemental goal of this Code of Conduct is to increase open source citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
@@ -18,7 +18,7 @@ Communities mirror the societies in which they exist and positive action is esse
 
 If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
 
-### 3. Expected Behaviour
+### 3. Expected behaviour
 
 The following behaviours are expected and requested of all community members:
 
@@ -29,7 +29,7 @@ The following behaviours are expected and requested of all community members:
 * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
 * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
-### 4. Unacceptable Behaviour
+### 4. Unacceptable behaviour
 
 The following behaviours are considered harassment and are unacceptable within our community:
 
@@ -45,7 +45,7 @@ The following behaviours are considered harassment and are unacceptable within o
 * Advocating for, or encouraging, any of the above behaviour.
 * Sustained disruption of community events, including talks and presentations.
 
-### 5. Consequences of Unacceptable Behaviour
+### 5. Consequences of unacceptable behaviour
 
 Unacceptable behaviour from any community member, including sponsors and those with decision-making authority, will not be tolerated.
 
@@ -53,27 +53,25 @@ Anyone asked to stop unacceptable behaviour is expected to comply immediately.
 
 If a community member engages in unacceptable behaviour, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning.
 
-### 6. Reporting Guidelines
+### 6. Reporting guidelines
 
-If you are subject to or witness unacceptable behaviour, or have any other concerns, please notify a community organizer as soon as possible via [trustees@studentrobotics.org](mailto:trustees@studentrobotics.org). All reports will be handled with discretion. In your report please include:
+If you are subject to or witness unacceptable behaviour, or have any other concerns, please notify the Trustees as soon as possible via [trustees@studentrobotics.org](mailto:trustees@studentrobotics.org). All reports will be handled with discretion. In your report please include:
 
 * Your contact information.
-* Names \(real, nicknames, or pseudonyms\) of any individuals involved. If there are additional witnesses, please include them as well. Your account of what occurred, and if you believe the incident is ongoing. If there is a publicly available record \(e.g. a mailing list archive, public IRC logger or GitHub discussion\), please include a link.
+* Names \(real, nicknames, or pseudonyms\) of any individuals involved. If there are additional witnesses, please include them as well. Your account of what occurred, and if you believe the incident is ongoing. If there is a publicly available record \(e.g. Slack or GitHub discussion\), please include a link.
 * Any additional information that may be helpful.
 
-After filing a report, a representative will contact you personally, review the incident, follow up with any additional questions, and make a decision as to how to respond. If the person who is harassing you is part of the response team, they will recuse themselves from handling your incident. If the complaint originates from a member of the response team, it will be handled by a different member of the response team. We will respect confidentiality requests for the purpose of protecting victims of abuse.
+After filing a report, a Trustee will contact you personally, review the incident, follow up with any additional questions, and the Trustees will make a decision as to how to respond. If a report is raised against a Trustee, they will be recused from handling the incident. All reports will be treated in confidence. 
 
-Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behaviour feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
+### 7. Addressing grievances
 
-### 7. Addressing Grievances
-
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify the Student Robotics Trustees with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify the Trustees with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
 
 ### 8. Scope
 
-We expect all community participants \(contributors, paid or otherwise; sponsors; and other guests\) to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications pertaining to community business.
+This code of conduct applies to all those who participate in our community, including, but not limited to, volunteers, competitors, team supervisors, and other guests. 
 
-This code of conduct and its related procedures also applies to unacceptable behaviour occurring outside the scope of community activities when such behaviour has the potential to adversely affect the safety and well-being of community members.
+We expect all participants to abide by this Code of Conduct in all venues – online and in-person – as well as in all communications pertaining to SR business. This code of conduct and its related procedures also applies to unacceptable behaviour occurring outside the scope of SR activities when such behaviour has the potential to adversely affect the safety and well-being of SR participants.
 
 ### 9. Contact info
 
