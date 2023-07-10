@@ -6,7 +6,7 @@ Each team (and its committee) operates on a 24-month cycle (see [Formation and D
 
 Volunteers apply through the committee to join the team. The committee will ensure the team has an appropriate balance of relevant skills. Volunteers will be encouraged to apply at the start of each competition cycle but can apply at any time. The committee should not unreasonably restrict membership of the team.
 
-## The Committee
+## The committee
 
 The committee is a group of three people who are ultimately responsible for ensuring that the work of the team is carried out in the manner expected by the Trustees, coherent with the values of Student Robotics. 
 
