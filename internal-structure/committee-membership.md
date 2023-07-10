@@ -1,4 +1,4 @@
-# Committee formation, dissolution and membership
+# Committee formation and dissolution
 
 ### Eligibility
 
