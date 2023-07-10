@@ -11,4 +11,4 @@ The teams are as follows:
 * [Infrastructure team](infrastructure-team.md) responsible for maintaining the software services that support the competition programme. 
 * [Kit team](kit-team.md) responsible for developing the robotics kit and providing and supporting kits to allow teams to compete in the competition programme.
 * [Marketing team](marketing-team.md) responsible for promoting the organisation to attract new teams, sponsors and volunteers.
-* [Volunteer onboarding team](volunteer-team.md] responsible for inducting and supporting new volunteers.
+* [Volunteer onboarding team](volunteer-onboarding-team.md] responsible for inducting and supporting new volunteers.
