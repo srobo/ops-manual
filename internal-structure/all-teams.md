@@ -1,6 +1,4 @@
-# All committees
-
-## Structure and Operation
+# Teams - structure and operation
 
 Each team (and its committee) operates on a 24-month cycle (see [Formation and Dissolution](committee-membership.md)).
 
