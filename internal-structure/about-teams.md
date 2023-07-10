@@ -1,15 +1,4 @@
-# Teams
-
-Student Robotics' volunteers self-organise into six teams. These are: 
-
-* A [competition team](competition-team.md)
-* A [kit team](kit-team.md)
-* A [volunteer onboarding team](volunteer-onboarding-team.md)
-* A [marketing team](marketing-team.md)
-* A [fundraising and sponsorship team](fundraising-team.md)
-* An [infrastructure team](insfastructure-team.md)
-
-## Structure and operation
+# Team structure and operation
 
 Each team (and its committee) operates on a 24-month cycle (see [Formation and Dissolution](committee-membership.md)).
 
