@@ -1,20 +1,10 @@
-# Marketing Team
+# All committees
 
-## Purpose
-
-The marketing team are responsible for attracting new sponsors, competitor teams and volunteers. Their work includes, but is not limited to:
-
-* managing website content
-* making effective use of social media channels 
-* producing and procuring marketing materials
-* maintaining SR brand assets
-* writing the annual report
-  
 ## Structure and Operation
 
-The team (and its committee) operates on a 24-month cycle (see [Formation and Dissolution](committee-membership.md)).
+Each team (and its committee) operates on a 24-month cycle (see [Formation and Dissolution](committee-membership.md)).
 
-Volunteers apply through the Marketing Team Committee to join the team. The committee will ensure the team has an appropriate balance of relevant skills. Volunteers will be encouraged to apply at the start of each competition cycle but can apply at any time. The committee should not unreasonably restrict membership of the team.
+Volunteers apply through the committee to join the team. The committee will ensure the team has an appropriate balance of relevant skills. Volunteers will be encouraged to apply at the start of each competition cycle but can apply at any time. The committee should not unreasonably restrict membership of the team.
 
 ## The Committee
 
