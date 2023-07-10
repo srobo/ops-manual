@@ -2,7 +2,7 @@
 
 Student Robotics' volunteers self-organise into six teams. These are: 
 
-* A [competition team](competition-team.md]
+* A [competition team](competition.md]
 * A [kit team](kit-team.md)
 * A [volunteer onboarding team](onboarding.md)
 * A [marketing team](marketing.md)
