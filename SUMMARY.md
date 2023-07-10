@@ -10,7 +10,7 @@
     * [DBS](about-the-charity/safeguarding/dbs.md)
   * [Money Matters](about-the-charity/money-matters.md)
 * [Internal structure](internal-structure/README.md)
-  * [Organisational structure](internal-structure/about-teams.md]
+  * [Team structure and operation](internal-structure/team-operations.md]
   * [Competition Team](internal-structure/competition-team.md)
   * [Marketing Team](internal-structure/marketing-team.md)
   * [Kit Team](internal-structure/kit-team.md)
