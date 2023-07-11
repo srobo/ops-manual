@@ -18,13 +18,12 @@ Each release of the Operations Manual has an entry on this page. Within this ent
 
 * Moved information about Trustees and Members to new governance page
 * Simplified all team pages to link to new team organistion and structure page
+* Updated all team pages to refelct current responsibilities
 * Updated committee formation and dissolution page to reflect current practice
 * Updated money matters page to reflect current practice
 * Updated volunteers page to add volunteers must be 18+ and updated information held to refelect currect practice
 * Updated table of contents with new pages
 
-### Removed
-  
 
 ## Version 7.0.0 \(2021-12-12\)
 
@@ -40,7 +39,6 @@ Each release of the Operations Manual has an entry on this page. Within this ent
 * Details of Trustees
 * Teams overview
 
-### Removed
 
 ## Version 6.1.0 \(2019-09-19\)
 
