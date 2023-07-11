@@ -17,3 +17,5 @@ The competition programme includes, but is not limited to:
 * Training sufficient volunteers to support planned events
 * Health and Safety and Safeguarding at events
 * Gathering metrics throughout the competition cycle
+
+[The way that the team is structured and operates](team-operations.md) is consistent wih all of the other SR teams.
