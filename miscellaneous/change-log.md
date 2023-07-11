@@ -20,6 +20,7 @@ Each release of the Operations Manual has an entry on this page. Within this ent
 * Simplified all team pages to link to new team organistion and structure page
 * Updated committee formation and dissolution page to reflect current practice
 * Updated money matters page to reflect current practice
+* Updated table of contents with new pages
 
 ### Removed
   
