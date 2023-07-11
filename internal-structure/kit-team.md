@@ -25,3 +25,6 @@ The team is also responsible for:
 * Communicating a strategic vision for the kit
 * Developing kit for future competitions
 * Ensuring that kit is deployed only for the purposes of delivering the Student Robotics Competition Programme or as directed by the Trustees
+
+[The way that the team is structured and operates](team-operations.md) is consistent with all of the other SR teams.
+
