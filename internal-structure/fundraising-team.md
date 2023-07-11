@@ -12,3 +12,5 @@ This includes, but is not limited to:
 * Ensuring all perks due to sponsors are supplied in a timely manner
 * Working with the marketing team to review the effectiveness of sponsorship and fundraising material
 * Working closely with the Trustees on all matters relating to sponsors
+
+[The way that the team is structured and operates](team-operations.md) is consistent with all of the other SR teams.
