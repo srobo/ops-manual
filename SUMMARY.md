@@ -17,8 +17,8 @@
   * [Kit Team](internal-structure/kit-team.md)
   * [Marketing Team](internal-structure/marketing-team.md)
   * [Volunteer onboarding Team](internal-structure/onboarding-team.md)
-  * [Committee Formation and Dissolution](internal-structure/committee-formation.md)  * 
-  * [Common Responsibilities](internal-structure/common-responsibilities.md)
+  * [Committee formation and Dissolution](internal-structure/committee-formation.md)  * 
+  * [Common responsibilities](internal-structure/common-responsibilities.md)
 * [Miscellaneous](miscellaneous/README.md)
-  * [Release Versioning](miscellaneous/release-versioning.md)
-  * [Change Log](miscellaneous/change-log.md)
+  * [Release versioning](miscellaneous/release-versioning.md)
+  * [Change log](miscellaneous/change-log.md)
