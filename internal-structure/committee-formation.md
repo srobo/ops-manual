@@ -10,7 +10,7 @@ All **other committees** operate on a 23-month cycle running from early July in 
 
 At the end of the term of office, each committee is invited to meet with the Trustees to review the progress made. This serves as a useful event for both the committee, to reflect on their achievements, and the Trustees, to gather as much information as possible to feed into the new cycle. It is expected that the committee will get the views of the wider team before the meeting. After the review meeting, the team and its committee is stood down. 
 
-The dissolution of the team allows other volunteers a chance to stand for the committee. This is healthy for the organsiation and ensures that it is not over-dependednt on a small set of volunteers. There should be no expectation that committee members will be reappointed at the end of their term of office and nothing shoould be read into the fact that one or more members are not reappointed. The trustees will always consider the long term view. 
+The dissolution of the team allows other volunteers a chance to stand for the committee. This is healthy for the organsiation and ensures that it is not over-dependednt on a small set of volunteers. There should be no expectation that committee members will be reappointed at the end of their term of office and nothing should be read into the fact that one or more members are not reappointed. The trustees will always take the long term view. 
 
 ### Eligibility
 
