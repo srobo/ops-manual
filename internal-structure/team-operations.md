@@ -22,4 +22,4 @@ A committee is responsible for making sure that work is allocated fairly and tha
 
 ## Budget and financial records
 
-A budget will be made available to support the work of the team. One named member of each committee must act as the team treasurer and the responsibility for the budget will be delegated to this committee member. The team treasurer will be able to approve spending within the allocated budget and must ensure that all expenditure is authorised in advance of being incurred and that appropriate records are kept. 
+A budget will be made available to support the work of each team. One named member of each committee must act as the team treasurer and the responsibility for the budget will be delegated to this committee member. The team treasurer will be able to approve spending within the allocated budget and must ensure that all expenditure is authorised in advance of being incurred and that appropriate records are kept. 
