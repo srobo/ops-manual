@@ -16,7 +16,7 @@ This includes, but is not limited to:
 * Maintaining a list of team services (i.e. services maintained especially for and in collaboration with another team)
 * Ensuring continuous/enduring access to SR services
 
-* The infrastructure team is **not** responsible for content beyond ensuring it does not break other functionality
+The infrastructure team is **not** responsible for content beyond ensuring it does not break other functionality
 
- [The way that the team is structured and operates](team-operations.md) is consistent with all of the other SR teams.
+[The way that the team is structured and operates](team-operations.md) is consistent with all of the other SR teams.
 
