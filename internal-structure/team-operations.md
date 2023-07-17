@@ -1,6 +1,6 @@
 # Team structure and operation
 
-Each team (and its committee) operates on a 24-month cycle (see [Formation and Dissolution](committee-formation.md)).
+The competition team and its committee operates on an 11-month cycle running from early July to early June the following year. All other committees operate on a 23-month cycle running from early July in year one to early June in year three. The process for committee [Formation and Dissolution](committee-formation.md)).
 
 Volunteers apply to join the team through its committee. Volunteers will be encouraged to apply at the start of each competition cycle but can apply at any time. The committee should not unreasonably restrict membership of the team.
 
