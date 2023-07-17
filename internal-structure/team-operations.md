@@ -1,16 +1,12 @@
 # Team structure and operation
 
+Each team is a group of volunteers that work together to deliver the team's purpose. 
+
+Each team is led by a committee: a group of three people who are ultimately responsible for ensuring that the work of the team is carried out in the manner expected by the Trustees, coherent with the values of Student Robotics. Each committee is accountable to the Trustees and its responsibilities are defined in the list of [common responsibilities](common-responsibilities.md). 
+
+Volunteers apply to join a team through its committee. Volunteers can apply to join a team at any time and the committee should not unreasonably restrict membership of the team.
+
 The competition team and its committee operates on an 11-month cycle running from early July to early June the following year. All other committees operate on a 23-month cycle running from early July in year one to early June in year three. The process for formation and dissolution of committees is [explained here](committee-formation.md).
-
-Volunteers apply to join a team through its committee. Volunteers will be invited to apply at the start of each cycle but can apply at any time. A committee should not unreasonably restrict membership of the team.
-
-## Committees
-
-A committee is a group of three people who are ultimately responsible for ensuring that the work of the team is carried out in the manner expected by the Trustees, coherent with the values of Student Robotics. Each committee is accountable to the Trustees. 
-
-A committee will focus on management of time, resources and volunteers within the team. It will ensure the team has an appropriate balance of relevant skills and will provide support and guidance to team members to allow them to be as effective as possible in delivering the work of the team.
-
-Each committee's responsibilities are defined in the list of [common responsibilities](common-responsibilities.md). 
 
 ## Team meetings and documentation
 
