@@ -2,9 +2,7 @@
 
 ### Committee cycles
 
-The **competition team** and its committee operates on an 12-month cycle running from the beginning of July to the end of June the following year.
-
-All **other committees** operate on a 24-month cycle running from the beginning of July in year one to the end of June two years later. 
+The **competition team** and its committee operates on an 12-month cycle running from the beginning of July to the end of June the following year. All **other committees** operate on a 24-month cycle running from the beginning of July in year one to the end of June two years later. 
 
 ### Dissolution
 
