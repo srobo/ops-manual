@@ -9,5 +9,5 @@ The register of regular volunteers is maintained on the Google GSuite organisati
 
 Temporary volunteers for specific events will be kept in a record by the organising committee, and be kept until 3 years after the event.
 
-Each volunteer is required to abide by the  [code of conduct ](code-of-conduct.md) and to observe the  [safe guarding policy](safeguarding.md). 
+Each volunteer is required to abide by the  [code of conduct ](code-of-conduct.md) and to observe the  [safeguarding policy](safeguarding.md). 
 
