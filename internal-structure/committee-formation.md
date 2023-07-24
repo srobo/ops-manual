@@ -14,7 +14,7 @@ The dissolution of the team allows other volunteers a chance to stand for the co
 
 ### Eligibility
 
-All registered volunteers who have participated in at least one full (11-month) competition cycle, including volunteering at the main competition event, are invited to express an interest in a place on a committee. Committee members are selected from applicants who have relevant skills and experience. Preference is gven to volunteers who have actively particpated in the work of the relevant team. 
+All registered volunteers are invited to express an interest in a place on a committee. Committee members are selected from applicants who have relevant skills and experience. Preference is gven to volunteers who have actively particpated in the work of the relevant team. 
 
 ### Registration of Interest
 
@@ -27,8 +27,6 @@ The Trustees discuss their expectations for the coming cycle (based on feedback 
 ### Formation
 
 Each committee is formed, following a meeting of the Trustees. Prior to this, applications from all eligible applicants are carefully considered and meetings with individual applicants may be held.  The Trustees select a set of volunteers that they feel are most able to take on the responsibilities of the committee and will work well together. The trustees will seek to give volunteers the opportunity to work in new areas and to acquire new skills so long as the stability of the organsaition is maintained. 
-
-
 
 ### Insufficient applications
 
