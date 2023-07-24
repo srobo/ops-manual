@@ -2,9 +2,9 @@
 
 ### Committee cycles
 
-The **competition team** and its committee operates on an 11-month cycle running from early July to early June the following year. The one month gap provides a much-needed break for members of the team. This gap also provides a definitive start of a new cycle and creates an opportunity for new volunteers to get involved starting afresh with the rest of the team.
+The **competition team** and its committee operates on an 12-month cycle running from the beginning of July to the end of June the following year.
 
-All **other committees** operate on a 23-month cycle running from early July in year one to early June in year three. 
+All **other committees** operate on a 24-month cycle running from the beginning of July in year one to the end of June in year three. 
 
 ### Dissolution
 
