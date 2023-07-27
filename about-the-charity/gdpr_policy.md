@@ -13,7 +13,8 @@
 ## Your rights
 
 ## Any concerns?
-If you have any concerns or questions about our use of your personal information, you can make a complaint to us at trustees@studentrobotics.org[Insert your organisation’s contact details for data protection queries].
+If you have any concerns or questions about our use of your personal information, you can make a complaint to us at [gdpr@studentrobotics.org](mailto:gdpr@studentrobotics.org).
+
 You can also complain to the ICO if you are unhappy with how we have used your data.
 The ICO’s address:            
 Information Commissioner’s Office
