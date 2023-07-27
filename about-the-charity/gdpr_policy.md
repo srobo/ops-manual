@@ -32,6 +32,15 @@ We also receive some data from third parties through you interacting with our se
 
 ## How we store your personal information
 
+Personal information is typically stored either digitally, or on paper.
+
+Digitally; personal information is stored using private folders on Google Drive.
+Access to this information is restricted to a minimal number of Student Robotics volunteers.
+This will include the the volunteers processing it, the committee overseeing it, and the Trustees.
+
+Paper copies will be scanned and stored digitally where possible.
+When this is not possible, the paper copy will be stored in a secure manner by the Trustees.
+
 ## How long we store personal information
 
 Personal information is stored in accordance with our data retention policy.
