@@ -1,14 +1,8 @@
 # Common responsibilities of team committees
 
-
-
 A committee is a group of three people who are ultimately responsible for ensuring that the work of the team is carried out in the manner expected by the Trustees, coherent with the values of Student Robotics. Each committee is accountable to the Trustees. 
 
 A committee will focus on management of time, resources and volunteers within the team. It will ensure the team has an appropriate balance of relevant skills and will provide support and guidance to team members to allow them to be as effective as possible in delivering the work of the team.
-
-
-
-
 
 All committees have the following responsibilities:
 * Organising and running team meetings
@@ -67,4 +61,4 @@ All teams should take an active role in supporting the search for new volunteers
 Committees are responsible for ensuring that any concerns raised within their team, or any issues observed within the wider organisation, are reported to the Trustees. 
 
 ## Ensuring a clean handover to a new committee
-Committees are responsible for ensuring a clean handover to a new committee at the end of their term of office. 
+Committees are responsible for ensuring a clean handover to a new committee at the end of their term of office.
