@@ -52,7 +52,7 @@ The mission statement articulates the values of SR and all projects, whatever si
 Committees must ensure that their team maintains documentation on what it does and how it operates. This documentation must be available to all volunteers and must be held in a form that is accessible and easy to understand.  
 
 ## Managing and tracking assets
-SR is a small charity and our assets are of great value to the organisation. These assets should be looked after and committees should make their best efforts to know the whereabouts of the assets that belong to, or are managed by, their team. 
+SR is a small charity and our assets are of great value to the organisation. These assets include physical assets (e.g: kits) and digital ones (e.g: trademark, social media accounts, software licenses). Committees should make their best efforts to take care of their assets and to know the whereabouts of the assets that belong to, or are managed by, their team. 
 
 ## Supporting the recruitment and induction of volunteers
 All teams should take an active role in supporting the search for new volunteers and helping with their induction. Committees should make sure that volunteers who express and interest in joing their teams are made welcome and understand how to get involved with the work of the team.
