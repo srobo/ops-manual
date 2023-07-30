@@ -57,6 +57,13 @@ Paper copies will be shredded and the shreddings put into local waste management
 The disposal of personal or sensitive data will be confirmed by a two people, including the person doing the disposal and a member of the relevant committee.
 Confirmation of the destruction will be e-mailed to [gdpr@studentrobotics.org](mailto:gdpr@studentrobotics.org) referencing only a case number, the SR year or event name.
 
+## Sharing of personal information
+
+We use third party organisations or individuals to enable us to provide our services.
+These may, for example, provided virtual storage or computing services, or manage e-mails.
+Student Robotics verifies that these third parties state how they use the information.
+These privacy policies will be made available on request.
+
 ## Your rights
 
 Under data protection law, you have rights including:
