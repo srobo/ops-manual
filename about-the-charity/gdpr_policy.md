@@ -34,7 +34,7 @@ We also receive some data from third parties through you interacting with our se
 
 Personal information is typically stored either digitally, or on paper.
 
-Digitally; personal information is stored using private folders on Google Drive.
+Digitally; personal information is stored privately on servers managed by Student Robotics.
 Access to this information is restricted to a minimal number of Student Robotics volunteers.
 This will include the the volunteers processing it, the committee overseeing it, and the Trustees.
 
