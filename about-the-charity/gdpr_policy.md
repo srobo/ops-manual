@@ -43,7 +43,7 @@ When this is not possible, the paper copy will be stored in a secure manner by t
 
 ## How long we store personal information
 
-Personal information is stored in accordance with our data retention policy.
+Personal information is stored in accordance with our [data retention policy](data_retention.md).
 This is separated into a separate policy as it includes a number of edge cases.
 
 As a rule of thumb data is kept for about 4-6 years.
