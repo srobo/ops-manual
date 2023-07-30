@@ -46,11 +46,16 @@ When this is not possible, the paper copy will be stored in a secure manner by t
 Personal information is stored in accordance with our data retention policy.
 This is separated into a separate policy as it includes a number of edge cases.
 
-As a rule of thumb data is kept for about 4 years.
+As a rule of thumb data is kept for about 4-6 years.
 
 ## Disposal of personal information
 
-Once the personal information is no longer required by our data retention policy it is deleted.
+Once the personal information is no longer required by our data retention policy will be disposed of.
+Digital data will be deleted.
+Paper copies will be shredded and the shreddings put into local waste management facilities.
+
+The disposal of personal or sensitive data will be confirmed by a two people, including the person doing the disposal and a member of the relevant committee.
+Confirmation of the destruction will be e-mailed to [gdpr@studentrobotics.org](mailto:gdpr@studentrobotics.org) referencing only a case number, the SR year or event name.
 
 ## Your rights
 
