@@ -8,11 +8,11 @@ The **competition team** and its committee operates on an 12-month cycle running
 
 At the end of the term of office, each committee is invited to meet with the Trustees to review the progress made. This serves as a useful event for both the committee, to reflect on their achievements, and the Trustees, to gather as much information as possible to feed into the new cycle. It is expected that the committee will get the views of the wider team before the meeting. After the review meeting, the team and its committee is stood down. 
 
-The dissolution of the team allows other volunteers a chance to stand for the committee. This is healthy for the organsiation and ensures that it is not over-dependednt on a small set of volunteers. There should be no expectation that committee members will be reappointed at the end of their term of office and nothing should be read into the fact that one or more members are not reappointed. The trustees will always take the long term view. 
+The dissolution of the team allows other volunteers a chance to stand for the committee. This is healthy for the organisation and ensures that it is not over-dependent on a small set of volunteers. There should be no expectation that committee members will be reappointed at the end of their term of office and nothing should be read into the fact that one or more members are not reappointed. The trustees will always take the long term view. 
 
 ### Eligibility
 
-All registered volunteers are invited to express an interest in a place on a committee. Committee members are selected from applicants who have relevant skills and experience. Preference is gven to volunteers who have actively particpated in the work of the relevant team. 
+All registered volunteers are invited to express an interest in a place on a committee. Committee members are selected from applicants who have relevant skills and experience. Preference is given to volunteers who have actively participated in the work of the relevant team. 
 
 ### Registration of Interest
 
@@ -24,11 +24,11 @@ The Trustees discuss their expectations for the coming cycle (based on feedback 
 
 ### Formation
 
-Each committee is formed, following a meeting of the Trustees. Prior to this, applications from all eligible applicants are carefully considered and meetings with individual applicants may be held.  The Trustees select a set of volunteers that they feel are most able to take on the responsibilities of the committee and will work well together. The trustees will seek to give volunteers the opportunity to work in new areas and to acquire new skills so long as the stability of the organsaition is maintained. 
+Each committee is formed, following a meeting of the Trustees. Prior to this, applications from all eligible applicants are carefully considered and meetings with individual applicants may be held.  The Trustees select a set of volunteers that they feel are most able to take on the responsibilities of the committee and will work well together. The trustees will seek to give volunteers the opportunity to work in new areas and to acquire new skills so long as the stability of the organisation is maintained. 
 
 ### Insufficient applications
 
-The ideal size of a committee is three members. This allows a spread of responsibilities and for effective debate. If there are insufficient suitable applicants, the Trustees appoint a smaller commitee and work with that commitee to find suitable candidates for the unfilled position(s).  
+The ideal size of a committee is three members. This allows a spread of responsibilities and for effective debate. If there are insufficient suitable applicants, the Trustees appoint a smaller committee and work with that committee to find suitable candidates for the unfilled position(s).  
 
 ### Resignation of a committee member
 
