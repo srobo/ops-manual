@@ -52,7 +52,7 @@ As a rule of thumb data is kept for about 4-6 years.
 
 Once the personal information is no longer required by our data retention policy it will be disposed of.
 Digital data will be deleted.
-Paper copies will be shredded and the shreddings put into local waste management facilities.
+Paper copies will be shredded and the waste put into local waste management facilities.
 
 The disposal of personal or sensitive data will be confirmed by a two people, including the person doing the disposal and a member of the relevant committee/Trustees.
 Confirmation of the destruction will be e-mailed to [gdpr@studentrobotics.org](mailto:gdpr@studentrobotics.org) referencing only a case number, the SR year or event name.
