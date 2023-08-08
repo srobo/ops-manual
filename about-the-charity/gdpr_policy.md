@@ -92,7 +92,3 @@ SK9 5AF
 
 Helpline number: 0303 123 1113
 ICO website: https://www.ico.org.uk# GDPR Policy
-
-## Attribution
-
-This policy has been developed based on public guidance supplied by the ICO, NSPCC, NCVO
