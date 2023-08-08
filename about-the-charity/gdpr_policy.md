@@ -50,7 +50,7 @@ As a rule of thumb data is kept for about 4-6 years.
 
 ## Disposal of personal information
 
-Once the personal information is no longer required by our data retention policy will be disposed of.
+Once the personal information is no longer required by our data retention policy it will be disposed of.
 Digital data will be deleted.
 Paper copies will be shredded and the shreddings put into local waste management facilities.
 
