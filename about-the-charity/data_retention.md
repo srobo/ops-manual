@@ -4,7 +4,7 @@ This policy defines how long personal information will be kept by Student Roboti
 
 This policy covers all personal information with a sensitive nature in the possession or control of Student Robotics, regardless of how the information is held.
 
-This policy is subject to change, and will be superceded by any obligation of Student Robotics to comply with regulation, litigation, or law enforcement.
+This policy is subject to change, and will be superseded by any obligation of Student Robotics to comply with regulation, litigation, or law enforcement.
 
 Data may persist in a backup for 1 additional year in all situations.
 
@@ -15,4 +15,4 @@ Data may persist in a backup for 1 additional year in all situations.
 | Incident involving personal injury | Personal and sensitive information | 4 years after incident or 4 years after victim turns 18, whichever is later | Fight a case – Limitation act 1980 |
 | Incident not involving personal injury | Personal information | 7 years after incident | Fight a case – Limitation act 1980 |
 | Safeguarding incident - perpetrator | Personal and sensitive information | 100 years after case closure. In the event of the allegation being disproved, the record will be updated to state as such, and will be preserved for a further 1 year, or until 4 years after the event, whichever is later. | Required for providing evidence to relevant authorities. |
-| Safeguarding incident - victim | Personal and sensitive information | 7 years after last communication with alledged victim or their family | Required for providing evidence to relevant authorities |
+| Safeguarding incident - victim | Personal and sensitive information | 7 years after last communication with alleged victim or their family | Required for providing evidence to relevant authorities |
