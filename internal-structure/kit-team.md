@@ -8,9 +8,9 @@ The Kit is defined as the hardware and software (including software services) th
 
 The Kit Service includes, but is not limited to:
 * Provision of sufficient working kit to meet the needs of the [Competition Team](competition-team.md)
-    * Delivery of kit to Kickstart location(s) as agreed with Competition Team
-    * Checking kit out to teams at Kickstart events
-    * Shipping kits to teams that cannot attend a Kickstart event
+    * Delivery of kit to event location(s) as agreed with Competition Team
+    * Checking kit out to teams at events
+    * Shipping kits to teams that cannot attend an event
     * Collecting and holding disclaimer forms for kit issued
     * Dealing with any kit problems and issuing replacement parts as needed throughout the competition cycle
     * Providing technical documentation for competitors and for volunteers
