@@ -6,7 +6,7 @@ Each team is led by a committee: a group of three people who are ultimately resp
 
 Volunteers apply to join a team through its committee. Volunteers can apply to join a team at any time and the committee should not unreasonably restrict membership of the team.
 
-The competition team and its committee operates on an 11-month cycle running from early July to early June the following year. All other committees operate on a 23-month cycle running from early July in year one to early June in year three. The process for formation and dissolution of committees is [explained here](committee-formation.md).
+The competition team and its committee operates on an 12-month cycle running from early July to the end of June the following year. All other committees operate on a 24-month cycle running from early July in year one to the end of June in year three. The process for formation and dissolution of committees is [explained here](committee-formation.md).
 
 ## Team meetings and documentation
 
