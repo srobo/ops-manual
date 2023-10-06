@@ -4,7 +4,7 @@
 
 A primary goal of Student Robotics is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion \(or lack thereof\).
 
-This code of conduct outlines our expectations for all those who participate in our community, including, but not limited to, volunteers, competitors and team leaders. It further outlines the consequences for unacceptable behaviour.
+This code of conduct outlines our expectations for all those who participate in our community, including, but not limited to, volunteers, competitors and team supervisors. It further outlines the consequences for unacceptable behaviour.
 
 We invite all those who participate in Student Robotics to help us create safe and positive experiences for everyone.
 
@@ -84,4 +84,3 @@ This Code of Conduct is distributed under a [Creative Commons Attribution-ShareA
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
 Retrieved on November 22, 2016 from [http://citizencodeofconduct.org/](http://citizencodeofconduct.org/)
-

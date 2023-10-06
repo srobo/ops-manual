@@ -38,8 +38,8 @@ The Safeguarding Lead is responsible for:
 * Maintaining records of any safeguarding issues
 * Notifying the relevant external agencies about any relevant safeguarding issues
 
-The current Safeguarding Lead is: Thomas Scarsbrook ("Scarzy")
-They can be contacted at: [safeguarding@studentrobotics.org](mailto:safeguarding@studentrobotics.org)
+The current Safeguarding Lead is: Thomas Scarsbrook ("Scarzy").
+They can be contacted at: [safeguarding@studentrobotics.org](mailto:safeguarding@studentrobotics.org).
 
 ## Safeguarding Officers
 
@@ -120,7 +120,7 @@ Reports must be made on the official Student Robotics safeguarding incident form
 Details should be as accurate as possible, word for word if possible.
 
 Should a concern need immediate attention, it must be raised in person with the designated Safeguarding Officer, the Safeguarding Lead, or by alerting the trustees.
-If you are unable to get hold of someone, you should seek advice from a team-leader who should be trained in safeguarding procedures, or in extremis; the emergency services.
+If you are unable to get hold of someone, you should seek advice from a team supervisor who should be trained in safeguarding procedures, or in extremis; the emergency services.
 
 ## Protecting volunteers/young people
 The safety of all involved in Student Robotics events is of prime importance to Student Robotics.

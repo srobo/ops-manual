@@ -8,7 +8,7 @@ The competition programme includes, but is not limited to:
 
 * Working with the [marketing team ](marketing-team.md) to recruit teams from schools and colleges
 * Determining a fair method for selecting teams if over subscribed
-* Communicating with school/college team leaders throughout
+* Communicating with school/college team supervisors throughout
 * Liaising with the [kit team](kit-team.md)  to agree the number of teams and number of locations that can be supported
 * Devising a challenge
 * Organising and running Kickstart

@@ -10,7 +10,7 @@ David is a retired teacher from Hills Road Sixth Form College, teaching physics 
 
 ### Diane Dowling
 
-Diane works for the Raspberry Pi Foundation. She was previously Head of Computer Science at a Collyer's Sixth Form College in Horsham and has been involved in Student Robotics as a team Leader since 2013. Diane became a Trustee in January 2018.
+Diane works for the Raspberry Pi Foundation. She was previously Head of Computer Science at a Collyer's Sixth Form College in Horsham and has been involved in Student Robotics as a team supervisor since 2013. Diane became a Trustee in January 2018.
 
 ### Thomas Scarsbrook
 
