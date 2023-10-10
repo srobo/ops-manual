@@ -19,7 +19,7 @@ This policy lays down the procedures that must be followed to protect the young 
 
 * All volunteers must read and understand this policy
 * Student Robotics will appoint a safeguarding lead with overall responsibility for safeguarding
-* All in-person events will have a designated Safeguarding Officer in attendance at the event
+* All events involving young people participation will have a designated Safeguarding Officer in attendance at the event
 * All safeguarding concerns must be reported to the designated Safeguarding Officer or Safeguarding Lead
 * All volunteers must undertake basic safeguarding training on a recurring basis
 * Volunteers must avoid being in 1-to-1 situations with young people, including contact online via e-mail, social media, etc.
@@ -56,9 +56,14 @@ In the event that the appointed Safeguarding Officer is unable to handle an issu
 
 If the event occurs at a single location or across multiple days then a standby Safeguarding Officer will be appointed to pick up responsibilities if the primary officer is unavailable.
 
+For virtual events the Safeguarding Officer must be available and able to provide support, but does not need to be physically present at any specific location.
+
+The Safeguarding Officer will be appointed by the Safeguarding Lead, but should be requested by the team organising the event.
+
 ## 1-to-1 situations
 
 A 1-to-1 situation is one where a volunteer is alone with a young person.
+This can be both in-person or virtually.
 These situations should be avoided, both for the protection of the young person and also to protect the volunteer, should an action be misinterpreted or an allegation made.
 If a volunteer finds themselves in an unexpected 1-to-1 situation, they should always immediately request the company of another responsible adult and report the situation to the designated Safeguarding Officer or to the Safeguarding Lead.
 
