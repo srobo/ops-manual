@@ -6,16 +6,18 @@ The format is based on [Keep a Changelog v1.0.0](https://keepachangelog.com/en/1
 
 Each release of the Operations Manual has an entry on this page. Within this entry changes are broken down into 'Added', 'Changed', 'Removed' and 'Minor Fix'. The first three categories cover modifications that affect the function of the document, whereas the last one includes modifications that do not, for example corrections to typos and formatting. Each entry also includes the date on which it took effect.
 
-## Version 8.0.0 \(2023-08-01\)
+## Version 9.0.0 \(2023-10-10\)
 
 ### Added
 
 * Governance page
 * Volunteer onboarding team
 * Team organisation and structure page
+* GDPR policy
 
 ### Changed
 
+* Small tweaks to safeguarding
 * Moved information about Trustees and Members to new governance page
 * Simplified all team pages to link to new team organisation and structure page
 * Updated all team pages to reflect current responsibilities
@@ -23,6 +25,9 @@ Each release of the Operations Manual has an entry on this page. Within this ent
 * Updated money matters page to reflect current practice
 * Updated volunteers page to add volunteers must be 18+ and updated information held to reflect current practice
 * Updated table of contents with new pages
+
+## Version 8.0.0 \(2022-03-01\)
+
 
 
 ## Version 7.0.0 \(2021-12-12\)
