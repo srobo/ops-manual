@@ -26,7 +26,7 @@ Each release of the Operations Manual has an entry on this page. Within this ent
 * Updated volunteers page to add volunteers must be 18+ and updated information held to reflect current practice
 * Updated table of contents with new pages
 
-## Version 8.0.0 \(2023-08-01\)
+## Version 8.0.0 \(2022-03-01\)
 
 
 
