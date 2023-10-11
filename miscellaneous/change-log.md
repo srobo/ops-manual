@@ -10,10 +10,12 @@ Each release of the Operations Manual has an entry on this page. Within this ent
 
 ### Added
 
-* 
+* Volunteer onboarding team
+* GDPR policy
 
 ### Changed
 
+* Moved common team information to shared pages
 * Small tweaks to safeguarding 
 
 ## Version 8.0.0 \(2023-08-01\)
