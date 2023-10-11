@@ -10,24 +10,14 @@ Each release of the Operations Manual has an entry on this page. Within this ent
 
 ### Added
 
+* Governance page
 * Volunteer onboarding team
+* Team organisation and structure page
 * GDPR policy
 
 ### Changed
 
-* Moved common team information to shared pages
-* Small tweaks to safeguarding 
-
-## Version 8.0.0 \(2023-08-01\)
-
-### Added
-
-* Governance page
-* Volunteer onboarding team
-* Team organisation and structure page
-
-### Changed
-
+* Small tweaks to safeguarding
 * Moved information about Trustees and Members to new governance page
 * Simplified all team pages to link to new team organisation and structure page
 * Updated all team pages to reflect current responsibilities
@@ -35,6 +25,9 @@ Each release of the Operations Manual has an entry on this page. Within this ent
 * Updated money matters page to reflect current practice
 * Updated volunteers page to add volunteers must be 18+ and updated information held to reflect current practice
 * Updated table of contents with new pages
+
+## Version 8.0.0 \(2023-08-01\)
+
 
 
 ## Version 7.0.0 \(2021-12-12\)
