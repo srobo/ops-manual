@@ -15,6 +15,14 @@ Once the required steps have been completed, confirmation of having done so shou
 
 # Advanced training
 ## Who is this for
+Safeguarding Lead
+Safeguarding Officers
 ## What's required
+* Completion of the basic safeguarding training
+* Completion of a further safeguarding training programme. Currently accepted programmes include;
+** NYA
+** Scouting
 ## Frequency
+This training should be completed at least once every 3 years.
 ## Validation
+* Confirmation of completion of further safeguarding training should be e-mailed to the Safeguarding Lead
