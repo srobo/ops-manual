@@ -9,6 +9,8 @@
   * [Safeguarding](about-the-charity/safeguarding/safeguarding.md)
     * [DBS](about-the-charity/safeguarding/dbs.md)
   * [Money matters](about-the-charity/money-matters.md)
+  * [GDPR](about-the-charity/gdpr.md)
+    * [Data retention](about-the-charity/data-retention.md)
 * [Internal structure](internal-structure/README.md)
   * [Team structure and operation](internal-structure/team-operations.md)
   * [Competition team](internal-structure/competition-team.md)
