@@ -20,8 +20,8 @@ Safeguarding Officers
 ## What's required
 * Completion of the basic safeguarding training
 * Completion of a further safeguarding training programme. Currently accepted programmes include;
-** NYA
-** Scouting
+  * NYA
+  * Scouting
 ## Frequency
 This training should be completed at least once every 3 years.
 ## Validation
