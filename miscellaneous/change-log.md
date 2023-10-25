@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog v1.0.0](https://keepachangelog.com/en/1
 
 Each release of the Operations Manual has an entry on this page. Within this entry changes are broken down into 'Added', 'Changed', 'Removed' and 'Minor Fix'. The first three categories cover modifications that affect the function of the document, whereas the last one includes modifications that do not, for example corrections to typos and formatting. Each entry also includes the date on which it took effect.
 
+## Version 9.0.1 \(2023-10-25\)
+
+### Changed
+
+* Add the GDPR pages to the summary
+
 ## Version 9.0.0 \(2023-10-10\)
 
 ### Added
